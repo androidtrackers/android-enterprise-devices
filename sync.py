@@ -139,7 +139,7 @@ def main():
     fetch()
     diff_files()
     post_to_tg()
-    # git_commit_push()
+    git_commit_push()
 
 
 if __name__ == '__main__':
