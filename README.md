@@ -2459,7 +2459,7 @@
 |Huawei|MediaPad T2 8.0 Pro|JDN-W09, JDN-AL00, JDN-L01|[Here](https://lh3.googleusercontent.com/1eBFpgj335Rn7xBZ-qbo0uIUdshSgjZyP_f4p8cuNfLT6ps8VgIh-GMQRtuL5pR-3kmEe-te7GpYUQ)|Tablet|8.0-inch|3.0GB|16GB, 32GB|Android 6.0.1|✓|✗|✗|
 |Huawei|荣耀畅玩 6X|BLN-AL10, BLN-TL10, BLN-TL00, BLN-AL20, BLN-AL30, BLN-AL40|[Here](https://lh3.googleusercontent.com/MZ_dAlgCYB0h5SmXiJRKGabV6W4XnRvCLQVayp_rpIUTe-5nK_VE1gqMwV_CJPuWlpNHnNdE5Ugv)|Phone|5.5-inch|3.0GB|32GB|Android 8.0.0|✓|✓|✗|
 |Huawei|honor 6x|BLN-L22, BLN-L21|[Here](https://lh3.googleusercontent.com/zXxinJT3WSZluNjOMCjKAKGXCGvGqtoDT1lqk3yhof5aisikyq3ybHK99cYI6WS7JDamWlEftiKE)|Phone|5.5-inch|3.0GB|32GB|Android 8.0.0|✓|✓|✓|
-|Huawei|Huawei MediaPad T5|AGS2-L03, AGS2-W19, AGS2-L09|[Here](https://lh3.googleusercontent.com/-yzDplGPbWiPJFfbfIVTlzhfEzc9PjnblYPpOv9rAehR6FnnKhuKEWfY7lbvgBbn05urikAxQbSk)|Tablet|10.1-inch|3.0GB|32GB|Android 8.0.0|✓|✗|✗|
+|Huawei|Huawei MediaPad T5|AGS2-L03, AGS2-L09, AGS2-W19|[Here](https://lh3.googleusercontent.com/-yzDplGPbWiPJFfbfIVTlzhfEzc9PjnblYPpOv9rAehR6FnnKhuKEWfY7lbvgBbn05urikAxQbSk)|Tablet|10.1-inch|3.0GB|32GB|Android 8.0.0|✓|✗|✗|
 |Huawei|华为平板 C5|MON-W19, MON-AL19B, MON-AL19, BZT-AL10, BZT-W09, BZT-AL00|[Here](https://lh3.googleusercontent.com/v1JFABnjBycJN2xz7dyNq1B5vhFmL5iVPRNtG22Y_-kOUHFqf_-EL_RQNygj7NWsShy_L3615gqk)|Tablet|10.1-inch|3.0GB|32GB|Android 8.0.0|✓|✓|✗|
 |Huawei|nova lite|PRA-LX2, PRA-LX3|[Here](https://lh3.googleusercontent.com/uxyE57DlKHrm4vscDD5trEei7sZZDRDTraMqLpVF19pSaKcUd_21SkPuvocpyS7uPt1pHVuAChQ)|Phone|5.2-inch|3.0GB|32GB|Android 8.0.0|✓|✓|✗|
 |Huawei|P8 lite 2017|PRA-LA1, PRA-LX1|[Here](https://lh3.googleusercontent.com/uxyE57DlKHrm4vscDD5trEei7sZZDRDTraMqLpVF19pSaKcUd_21SkPuvocpyS7uPt1pHVuAChQ)|Phone|5.2-inch|3.0GB|32GB|Android 8.0.0|✓|✓|✓|
@@ -6632,8 +6632,8 @@
 |Vivo|vivo 1720|vivo 1720|[Here](https://lh3.googleusercontent.com/JEsBYvapRHNzk58g687vPdFMCF5vSE243g0SZQjUxY-V0p792_fm5XFXW_yNGIYD72QdOLHGF7hM)|Phone|6.4-inch|4.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Vivo|vivo 1611|vivo 1611|[Here](https://lh3.googleusercontent.com/a_LbPm8jCgQR6s_BVRQGYpSC5gsarEMJ0We5MIVY7SeRgHImAbMFFDxPjH8rXMA_WmS-BShD9Frf-A)|Phone|5.5-inch|4.0GB|64GB|Android 7.1.2|✓|✓|✗|
 |Vivo|V1730EA|V1730EA|[Here](https://lh3.googleusercontent.com/TysGHzOgOhHq3NYhnMwwNTRviCz30pEzACQeWpppg5GTw9VLUdLpeOKPPmGvOuq5UwV97HkQkHI)|Phone|6.3-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
-|Vivo|vivo 1802|vivo 1802|[Here](https://lh3.googleusercontent.com/vuxjF_y-5wRsbBPiHPUk3SP4Ese3PKZ13xGEH1dxmWXAriu9-H7NNTtP99VHmRRTsYofxS4NVxQ)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1726|vivo 1726|[Here](https://lh3.googleusercontent.com/cJl368p7k4RHgtx43lWlcAITbPP5EzssNBgDCNnWo9RhAQSUKlb6FbF9AO9ZviMVuq8eb7lwOrIE)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
+|Vivo|vivo 1802|vivo 1802|[Here](https://lh3.googleusercontent.com/vuxjF_y-5wRsbBPiHPUk3SP4Ese3PKZ13xGEH1dxmWXAriu9-H7NNTtP99VHmRRTsYofxS4NVxQ)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1815|vivo 1815|[Here](https://lh3.googleusercontent.com/6htqHuqSHI2r0nL1ZMKsQXkyLvtLrvgJyFaG-jEJMwg1vmN9EisFEbY1AlITGyudSozu5i7EkP51)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1718|vivo 1718|[Here](https://lh3.googleusercontent.com/AGKKn9fIFCBeWjtL_dsUubfCnfWTWz9WXddURZyj0uAr5ezBLicPHKALcmZVLvaPslJYDhETnIy4-A)|Phone|6.0-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo X9s|vivo X9s, vivo PD1616B|[Here](https://lh3.googleusercontent.com/aGiQlxTy0GoYUbabsUWVDt1NDImW1kWshA-tD01q2PyYQbXCWhUAMfES3Ts63iU5YB2RPQzwjain0A)|Phone|5.5-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
