@@ -641,6 +641,7 @@
 |Billion|Billion Capture+|Capture+|[Here](https://lh3.googleusercontent.com/f9ncBTePwjy2-qhg0gJHxqzIuTL4W6fvK4J72GV4qgIrlUOkAEusF-uJhGwG5lciUzitGwz5yO74)|Phone|5.5-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Billow|X101PRO+|X101PRO+|[Here](https://lh3.googleusercontent.com/QU91Sr9HuRe3hj6L7VcJpKk9G_ULAkfnJ2nisMhE8TdnJmQKPkkLVT4evK4YHOMcwSxeG1Ac9pE)|Tablet|10.1-inch|2.0GB|32GB|Android 8.1.0|✗|✗|✗|
 |Billow|X103PRO|X103PRO|[Here](https://lh3.googleusercontent.com/Nqjj2wW9dy_opWbc2PDkrR7ulUFWj6sZdNcL9uGLsp7i8r-HaH-TAEQgLrq6nfnpEt5vSZsh4OMmJQ)|Tablet|10.1-inch|2.0GB|32GB|Android 8.1.0|✓|✗|✗|
+|BioRugged|BIOWOLF8F30|BIOWOLF8F30|[Here](https://lh3.googleusercontent.com/usWA2kEhq1g7kngUKi5sUEd_8mCgVi3o6wCTk9Ig30BRsFzOnV_JW3fNYzK3qoifuqTHFuEAgvi2)|Tablet|8.0-inch|2.0GB|16GB|Android 9|✓|✗|✗|
 |Bird|E5018|E5018|[Here](https://lh3.googleusercontent.com/7B8TcvKVK7ZEfJ5D_G7iVue3zbmw_EsA3bgd02Hh6w3I-y9mt1LmqllmM6WfF3ztLj5W-VmUbs8)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✗|✗|
 |Bird|A7|A7|[Here](https://lh3.googleusercontent.com/DbXfMGDBhpytqr2oqwkIPmYcY_JTvAVhvLuXuDhgzlLv4WE92QZykOjIbqxQz0mXhzd68XoheW9z)|Phone|5.5-inch|3.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Bitel|B8416|B8416|[Here](https://lh3.googleusercontent.com/GhwuXTzhxFR02ROYhk6V0If5hN21NeKNjCtRyKvx-g1fg0hSYNj0UpU10gOLc_4IsDnAv1BeSUgg5A)|Phone|4.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
@@ -1218,10 +1219,10 @@
 |Coolpad|Coolpad POL-A0|POL-A0|[Here](https://lh3.googleusercontent.com/RvReuTA__MpBR7uZllx7CGZK-8hJUownrsGttBlaM2KjzIkOwVrFnhn707ZWHPf18TuUpeF5DM3b)|Phone|5.5-inch|4.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Coolpad|Coolpad VCR-I0|VCR-I0|[Here](https://lh3.googleusercontent.com/EkXQWpoL8_w80Y1q4wUqsSnlXUPdbpgR1i-I0-UINdqvMvAGP3dZHxBCKW0PLNOLn0zlF9EpxJ0)|Phone|5.5-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Coolpad|VCR-A0|VCR-A0|[Here](https://lh3.googleusercontent.com/IZEEgji5L4BpaYsfW2Z3PqLQIiRhYeS9Cfh6ZzbUOjBia178crUBNUodlDMTRgcAnKxZRKWQGIkp)|Phone|5.5-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
-|Coppernic|C-five|C-five|[Here](https://lh3.googleusercontent.com/AiT5LyZPSrVSdYsEJKdNxqUZdfFxvwxAtumM6mshLouTwSZB2E17iHn-bVViQS40hI3g2yMOqhzD)|Phone|5.0-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✓|
 |Coppernic|C-eight|C-eight|[Here](https://lh3.googleusercontent.com/MfaYTR6dgPGmqDvbaZPGhtwv7o0x2zKG8BOZ29vwBP6bCxtjR5uQVMQgx5anx6HhoovkFcg_GzM)|Tablet|8.0-inch|2.0GB|16GB|Android 6.0.1|✗|✗|✓|
 |Coppernic|C-one|C-One|[Here](https://lh3.googleusercontent.com/G6jnrU0yeffTETojlD7G8vl1On6kacO-bHCzpArZpq_Ov4sZl3nVnuaDahVARrA2r5PGUAcBjvQ)|Phone|4.5-inch|2.0GB|16GB|Android 7.1.2|✓|✗|✗|
 |Coppernic|C-One|C-One|[Here](https://lh3.googleusercontent.com/TbvtmM-SCEFVNPwZ65tj5Czf9JpUW89_VOXIusFpd1Pg_l_XhIKQdRd6VDmrm36QQ1SvfmMWW-tz)|Phone|4.5-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
+|Coppernic|C-five|C-five|[Here](https://lh3.googleusercontent.com/AiT5LyZPSrVSdYsEJKdNxqUZdfFxvwxAtumM6mshLouTwSZB2E17iHn-bVViQS40hI3g2yMOqhzD)|Phone|5.0-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
 |Covia|CP-K19|CP-K19|[Here](https://lh3.googleusercontent.com/SbnMybMxEbJCGHVnBKk3OwlwnGa5uqAh2wfBYDFBKEAxyCw_6EbrT-oiSs2iBNKdEHJt3ZVdb7dHmg)|Phone|5.0-inch|2.0GB|16GB|Android 9|✓|✓|✓|
 |Covia|g06+|g06|[Here](https://lh3.googleusercontent.com/pkhZMIJvTcf9imGXsluHVYDcGvzx1Jha4IFHGqJDq5VX2XLYV24j90X9IP-m9uL7cDtP-MGK_gyg)|Phone|4.0-inch|2.0GB|16GB|Android 7.0|✓|✗|✗|
 |Covia|CP-L45s|CP-L45s|[Here](https://lh3.googleusercontent.com/QioJoc0LcVYnJTX5fzCqE01S6_euE15GUaDAxGuGnz8S_2QbdWYevYQYyACn3OZZ3QKi7OPH1zs)|Phone|4.5-inch|2.0GB|16GB|Android 7.0|✓|✗|✗|
@@ -1329,6 +1330,7 @@
 |DEXP|DEXP M210|M210|[Here](https://lh3.googleusercontent.com/NFY4Z7EzhUXwsxLdFHeCSgAf8QqIBBn-xTkexwdvlVpgr_G4pLkzDiODQO4lZH1ZqSuyhS0EcoOU)|Phone|10.1-inch|3.0GB|64GB|Android 8.0.0|✓|✗|✗|
 |DEXP|Z455|Z455|[Here](https://lh3.googleusercontent.com/I1OC5EVjLR5udeChy5OvpHKTEIs2wX1OefJe7vcTAqlY4AzZaiVHo22TM8g5AEoixQ708NBpRcjzKQ)|Phone|5.0-inch|3.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |DEXP|AS260|AS260|[Here](https://lh3.googleusercontent.com/zbzQIseoKf5DJWft3sni_sVPxeD62aYzXOTeYAQPDcjuGcPYvJezsIeMrPh8jAZpeJQVl21odh4)|Phone|5.9-inch|3.0GB|32GB|Android 8.1.0|✓|✓|✓|
+|DEXP|N410|N410|[Here](https://lh3.googleusercontent.com/QGJ7yTMa5mJAjtndAvLEK4RXrvtz0GQtE1nZsloI-6x-qe9xAXrCHntJzM4MEtOKbJc2YyJ3bMVw)|Tablet|10.1-inch|4.0GB|64GB|Android 9|✓|✗|✗|
 |DEXP|AS160|AS160|[Here](https://lh3.googleusercontent.com/GJGFLiWpMIgV6RdDBbBHDwAzuNQBroD9E8KQvG2WaUAY1zhkP0W_GGqi1V9KFY8am9J-u4JXq4Y)|Phone|5.9-inch|4.0GB|64GB|Android 8.0.0|✓|✓|✗|
 |DEYI|DEYI-10M18|DEYI-10M18|[Here](https://lh3.googleusercontent.com/TXWhCiSVzqdA3CLNxfTOlWw6oyTjvftumwEEPZhypevv79-X2NOgk2tkIMlJdVJJIbhyGJI_zFvq)|Tablet|10.1-inch|2.0GB|16GB|Android 8.1.0|✗|✗|✗|
 |DL|YZU_DS53|Smartphone_YZU_DS53|[Here](https://lh3.googleusercontent.com/GFJtZsqaGVgEBW38EtFNfcymCNkLot3nC9qAvUfAD06HZfwBCw8q1F565JLQL289cdwL2s88DS8W0w)|Phone|5.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
@@ -2595,7 +2597,7 @@
 |Huawei|Honor Play|COR-AL10, COR-TL10, COR-AL00, COR-L29|[Here](https://lh3.googleusercontent.com/U8VkhxAM2xAOXTTqi1Zt4v_r4_1FQmTKCcqKG-uwFvoJarYuFVj-pb37RKOKgtKvlhC_n2ATgHKQ)|Phone|6.3-inch|6.0GB|64GB, 128GB|Android 9|✓|✓|✓|
 |Huawei|P20 Pro|CLT-TL00, CLT-TL01, CLT-AL00, CLT-AL01, CLT-AL00l, CLT-L29, CLT-L09, CLT-L04, HW-01K|[Here](https://lh3.googleusercontent.com/lKs2ZIR9u3eGQVqdRSsDTx-QIOIdV52BRgTbjPgkn7mNvknOOFopFsKNiXpOooJb-sCZ5kaeA2s)|Phone|6.1-inch|6.0GB|64GB, 128GB|Android 9|✓|✓|✓|
 |Huawei|nova 4|VCE-TL00, VCE-AL00, VCE-L22|[Here](https://lh3.googleusercontent.com/nHRsXwUfdBRyz3JBmXBgi0x12dIP-cYoHZL84dhzuuVtsBcN4vDoayvLztxZsnkJxgcqof027SYY)|Phone|6.4-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✗|
-|Huawei|P30 Pro|HW-02L, VOG-TL00, VOG-AL00, VOG-AL10, VOG-L09, VOG-L29, VOG-L04|[Here](https://lh3.googleusercontent.com/DBFq4XxLprje7FigxSnoplHgXvwU3d1FxUhxbGVqnwfuqE8wrXCr2CZfNBMw-5lAsEM7FjFn4bw)|Phone|6.5-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✓|
+|Huawei|P30 Pro|HW-02L, VOG-TL00, VOG-AL10, VOG-AL00, VOG-L09, VOG-L29, VOG-L04|[Here](https://lh3.googleusercontent.com/DBFq4XxLprje7FigxSnoplHgXvwU3d1FxUhxbGVqnwfuqE8wrXCr2CZfNBMw-5lAsEM7FjFn4bw)|Phone|6.5-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✓|
 |Huawei|HONOR 20 PRO|YAL-L41|[Here](https://lh3.googleusercontent.com/YZ2j-5oYeIxB8Y3k4LN2PEX2143ngdBySlCC7gVGpxtm2Vcau-eWh2qhFQsAdg3AUzDcDd9P81Xz)|Phone|5.5-inch|8.0GB|128GB, 256GB|Android 9|✓|✓|✓|
 |Huawei|HONOR 20|YAL-AL00, YAL-TL00, YAL-L21|[Here](https://lh3.googleusercontent.com/MRM3xo93m29uQQgNKdW42nhLN7222oWAmwY11p4Xeuoe7e31eSuyBHgS2y4RzyJX1o4HTXban4zl)|Phone|5.5-inch|8.0GB|128GB, 256GB|Android 9|✓|✓|✓|
 |Huawei|nova 5|SEA-AL00, SEA-TL00|[Here](https://lh3.googleusercontent.com/JmjgXhlj23ay5KbiZLqqegYqUcLu_FILCCAmKcz0bk6AsWREl32DiCVL6UbezslIJFFAXipNBF0)|Phone|6.4-inch|8.0GB|128GB, 256GB|Android 9|✓|✓|✗|
@@ -3571,7 +3573,7 @@
 |Lenovo|Lenovo TAB4 10|Lenovo TB-X304L, Lenovo TB-X304X, Lenovo TB-X304N, TB-X304N, TB-X304F, Lenovo TB-X304F|[Here](https://lh3.googleusercontent.com/KRfksbyHIBxXjXKGSvFO1F3JZ97dcW2EnkH2dxiWRwvFfxGY8n7-IPQAPi4OMO7cE48G-3YTSiEX)|Tablet|10.0-inch|2.0GB|16GB, 32GB|Android 8.1.0|✓|✗|✗|
 |Lenovo|Lenovo TAB M10 FHD Rel|Lenovo TB-X605LC|[Here](https://lh3.googleusercontent.com/oQuqQLFpBL4NMli5RtfYzgQ1ebZwgCKZlviOtJ5fykSFE5rGdZU5bCM30uX4zcCyazJ-mx8zQXjc)|Tablet|10.1-inch|3.0GB|32GB|Android 9|✗|✗|✗|
 |Lenovo|Lenovo Tab M10|Lenovo TB-X605L, Lenovo TB-X605M|[Here](https://lh3.googleusercontent.com/-DdW2Y_u9VCnmt8SrQzGg7Zc6b2vY4VzMyZOECKya1jrKeiHEGiXIlK2JdVXM1siji_5tRDJ4Dpn)|Tablet|10.1-inch|3.0GB|16GB, 32GB|Android 9|✗|✗|✗|
-|Lenovo|Lenovo Tab M10 (HD)|Lenovo TB-X505F, Lenovo TB-X505L, Lenovo TB-X505X|[Here](https://lh3.googleusercontent.com/eyc9mjPUdBLCxqRclg81dqvVrd-F98TmS1TbBmh8asgQdXnasj3DJiUsryTgmiOFnlz9H-lTgH8)|Tablet|10.1-inch|3.0GB|16GB, 32GB, 64GB|Android 9|✓|✗|✗|
+|Lenovo|Lenovo Tab M10 (HD)|Lenovo TB-X505F, Lenovo TB-X505L, Lenovo TB-X505N, Lenovo TB-X505X|[Here](https://lh3.googleusercontent.com/eyc9mjPUdBLCxqRclg81dqvVrd-F98TmS1TbBmh8asgQdXnasj3DJiUsryTgmiOFnlz9H-lTgH8)|Tablet|10.1-inch|3.0GB|16GB, 32GB, 64GB|Android 9|✓|✗|✗|
 |Lenovo|Lenovo Tab M10 (FHD)|Lenovo TB-X605F, Lenovo TB-X605L|[Here](https://lh3.googleusercontent.com/3IvGIJ-rQ9KavjnOm8Gw2dlAZd5Bkrr_IgoC-yhKbTnlGKJsC8ygcffb3F9M2mjKdsJTaYbPSVtR)|Tablet|10.1-inch|3.0GB|16GB, 32GB, 64GB|Android 9|✗|✗|✗|
 |Lenovo|PB2 plus|Lenovo PB2-670M1|[Here](https://lh3.googleusercontent.com/arXMh1_6bJX7idsfvm_AxwcRyNU2jp9nRQTZeGB1ZHmZfXv6lc_O3_hVdpjP7vO32ZPzyIbBK06LvA)|Tablet|6.4-inch|3.0GB|32GB|Android 6.0|✓|✗|✗|
 |Lenovo|Lenovo PHAB2 Plus|Lenovo PB2-670M, Lenovo PB2-670Y, Lenovo PB2-670N|[Here](https://lh3.googleusercontent.com/IC6tsDuA-9as14XzL00Jron_s0OJ8QLWxsbted72sBBsMiYDPtJwKEeMa3jmryHHHbv-x_VphSB5kg)|Phone|6.4-inch|3.0GB|32GB|Android 6.0|✓|✗|✗|
@@ -4575,9 +4577,9 @@
 |Oppo|realme X青春版|RMX1851|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|F9|CPH1825, CPH1823, CPH1881|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|realme 2|RMX1805, RMX1809|[Here](https://lh3.googleusercontent.com/qTWIDQbkhyJp77KaAOVkmDsVnISuzRxHXZ6YekMqd2eriHTfL6LcVTww_d2_Lcem9wwUDP0Zp0I)|Phone|6.2-inch|4.0GB|64GB|Android 9|✓|✓|✗|
-|Oppo|A9|PCAM10, PCAT10|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.5-inch|4.0GB|128GB|Android 9|✓|✓|✗|
-|Oppo|A7x|PBBT00|[Here](https://lh3.googleusercontent.com/2UR6CLbh3PHafkt_wD3A4DFOwOTjyHNmL7bPWG-SVUFXcQ4sbWxjYDHf9x4zF_ejEBBeiJJwHnA)|Phone|6.3-inch|4.0GB|128GB|Android 9|✓|✓|✗|
-|Oppo|A7x中国版|PBBM00|[Here](https://lh3.googleusercontent.com/2UR6CLbh3PHafkt_wD3A4DFOwOTjyHNmL7bPWG-SVUFXcQ4sbWxjYDHf9x4zF_ejEBBeiJJwHnA)|Phone|6.3-inch|4.0GB|128GB|Android 9|✓|✓|✗|
+|Oppo|A9 中国版|PCAM10, PCAT10|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.5-inch|4.0GB|128GB|Android 9|✓|✓|✗|
+|Oppo|A7x 中国版|PBBM00, PBBT00|[Here](https://lh3.googleusercontent.com/2UR6CLbh3PHafkt_wD3A4DFOwOTjyHNmL7bPWG-SVUFXcQ4sbWxjYDHf9x4zF_ejEBBeiJJwHnA)|Phone|6.3-inch|4.0GB|128GB|Android 9|✓|✓|✗|
+|Oppo|Reno Z|CPH1979|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.4-inch|4.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|A3中国版|PADM00, PADT00|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.2-inch|4.0GB|128GB|Android 9|✓|✗|✗|
 |Oppo|realme U1|RMX1831, RMX1833|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.3-inch|4.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Oppo|realme 1|CPH1859, CPH1861|[Here](https://lh3.googleusercontent.com/CXONmlbRAnfPTGgRwFC-Ggz-OllWFKMzRnpBncXjeur0kxOZpxwNR5RNDF1LZbdrmVrGRH7-cYU)|Phone|6.0-inch|4.0GB|64GB, 32GB|Android 9|✓|✗|✗|
@@ -4612,12 +4614,13 @@
 |Oppo|A7|CPH1905, CPH1901, PBFM00, PBFT00|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.2-inch|4.0GB|64GB, 32GB|Android 8.1.0|✓|✓|✗|
 |Oppo|R15x|PBCM10, PBCT10|[Here](https://lh3.googleusercontent.com/sYgznpPrybrDqxUUHZRJ7M-2i-pIIPSeVKrQq72Ol6Hi675iomFyRfwhmVq4b9G2E12mpRPlB8U)|Phone|6.4-inch|4.0GB|128GB, 64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|F11 Pro|CPH1969, CPH1987|[Here](https://lh3.googleusercontent.com/S_VS8Kz3p8nCHt6PgDfICXHE70bPe8S4Z8wHY0S0xnbyPw6zVCyhSGzkwYPVJfAwLw_qNfPLlTA)|Phone|6.5-inch|6.0GB|128GB|Android 9|✓|✓|✗|
-|Oppo|R15 Pro|CPH1831|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✓|
-|Oppo|R15|PACM00, CPH1835, PACT00, CPH1833|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✓|
+|Oppo|R15 Pro|CPH1831, CPH1833|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✓|
+|Oppo|R15|CPH1835|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✗|
+|Oppo|R15 中国版|PACM00, PACT00|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✗|
 |Oppo|R15 梦境版|PAAM00, PAAT00|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.3-inch|6.0GB|128GB|Android 9|✓|✓|✗|
 |Oppo|A9x|PCEM00, PCET00|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.5-inch|6.0GB|128GB|Android 9|✓|✓|✗|
+|Oppo|Reno Z 中国版|PCDM10, PCDT10|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.4-inch|6.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|R17|PBEM00, CPH1879, PBET00|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.4-inch|6.0GB|128GB|Android 9|✓|✓|✗|
-|Oppo|Reno Z|PCDM10, CPH1979, PCDT10|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.4-inch|6.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|realme 3Pro|RMX1853, RMX1851|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.3-inch|6.0GB|128GB, 64GB|Android 9|✓|✓|✗|
 |Oppo|F7|CPH1819, CPH1821|[Here](https://lh3.googleusercontent.com/UkPs4qoCXhmcNKk3EGEOXFCFqm_Bf2yYGBPxPqijs_xodt4CjvUgS3BnYaFfjprUt2IE5D5y9WWI)|Phone|6.2-inch|6.0GB|64GB, 128GB|Android 9|✓|✓|✗|
 |Oppo|CPH1727|CPH1727|[Here](https://lh3.googleusercontent.com/ei1RDmDHbQTdG8vHBkoos88Z90Yqi7FSDntfBJkJk4NE_F01AryVwmCLq-LgAEklJ3Wd4Q5JZGU9)|Phone|6.0-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
@@ -5170,8 +5173,8 @@
 |Redmi|Redmi 7|Redmi 7, Redmi Y3|[Here](https://lh3.googleusercontent.com/e9ZeF7XLIqyDqZa2DcbG3_1DFQccwXbLld6jTehCJl_6vfzsibBVPvTo0PZeI0dU60qqJU60LBU)|Phone|6.3-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Redmi|Redmi Note 7|Redmi Note 7|[Here](https://lh3.googleusercontent.com/Yh4IBtNsq0_iYK86rafv_ivsORc0X8XEDtTOux-enXrB2lUPUBVjXLA-DsALIROUNkDEDPqJVFw7)|Phone|6.3-inch|4.0GB|32GB, 64GB, 128GB|Android 9|✓|✓|✗|
 |Redmi|Redmi  Note  7|Redmi Note 7|[Here](https://lh3.googleusercontent.com/Yh4IBtNsq0_iYK86rafv_ivsORc0X8XEDtTOux-enXrB2lUPUBVjXLA-DsALIROUNkDEDPqJVFw7)|Phone|6.3-inch|4.0GB|32GB, 64GB, 128GB|Android 9|✓|✓|✗|
-|Redmi|Redmi K20|Redmi K20, Mi 9T|[Here](https://lh3.googleusercontent.com/C47dMOHWRbHY8pL_Km9sVfzXiI1eo2niTdtK7Ygo8mNFgDjFdAfz6zINYuZfJ0zZVULQqFs783Cf)|Phone|6.4-inch|6.0GB|64GB, 128GB|Android 9|✓|✓|✓|
-|Redmi|Redmi K20 Pro|Redmi K20 Pro|[Here](https://lh3.googleusercontent.com/u94UIhyRzF8Qrdkeu-QH7q21748r3BZXONPJq4BtpP39sMKIku8z7au59g-ShifxWlWcP-9M5mk)|Phone|6.4-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✓|
+|Redmi|Redmi K20|Redmi K20, Mi 9T|[Here](https://lh3.googleusercontent.com/U7a0IfGuEyqw0eqOGgxhXWB3XzGKByWBAP7czNqU5QbUb93A18SF_lENXkETtVtPqY7j4ZRMnS-q)|Phone|6.4-inch|6.0GB|64GB, 128GB|Android 9|✓|✓|✓|
+|Redmi|Redmi K20 Pro|Redmi K20 Pro, Mi 9T Pro|[Here](https://lh3.googleusercontent.com/u94UIhyRzF8Qrdkeu-QH7q21748r3BZXONPJq4BtpP39sMKIku8z7au59g-ShifxWlWcP-9M5mk)|Phone|6.4-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✓|
 |Reeder|reeder M7|reeder_M7_Go|[Here](https://lh3.googleusercontent.com/nz07YXOMO9xFrBlabQ2sdjTFSwPT7wuF9hIzZ--NksRCbldCeD2-exKVBSyINVN4qBQlwh90h1qlqA)|Tablet|7.0-inch|1.0GB|8GB|Android 7.0|✗|✗|✗|
 |Reeder|M7 Plus|M7Plus|[Here](https://lh3.googleusercontent.com/10sblUghNIeC9qYb6VneHm8SX5GAQaJVRoHZPxhCMEPPv843BL9StuJ5d6pzVL7iUd9gWFURbxCkaA)|Tablet|7.0-inch|1.0GB|8GB|Android 7.0|✗|✗|✗|
 |Reeder|Preo P3|Preo P3|[Here](https://lh3.googleusercontent.com/9iHCObI8e1xDGI2Qh0_H6359Mkg5Jh-fMpUQ3V6oEv5UBznThisru41Hk4RUHjGjcYhnSx6UZ-I)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✗|✗|
@@ -5391,9 +5394,9 @@
 |Samsung|Galaxy J4+|SM-J415F, SM-J415G, SM-J415GN, SM-J415N, SM-J415FN|[Here](https://lh3.googleusercontent.com/oy4tWErARc3irkCYXDk3wKrzixVSterveU3mStygoGV-lLMqrOHDtFL-xgRaYpp5utbR4qp9gYJG)|Phone|6.0-inch|3.0GB|16GB, 32GB|Android 9|✓|✗|✓|
 |Samsung|Galaxy Tab Active2|SM-T397U, SM-T395, SM-T395N, SM-T390, SM-T395C|[Here](https://lh3.googleusercontent.com/77NRs0S_s4L8rwLHEX47tkochHKqup_FY0HADnPG9en-wyqKVZ83wlilAFV2zvueKw7rLhuGemQp)|Tablet|8.0-inch|3.0GB|16GB, 32GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy Tab A (2017)|SM-T380, SM-T380C, SM-T385, SM-T385K, SM-T385M, SM-T385L, SM-T385S, SM-T385C|[Here](https://lh3.googleusercontent.com/mKoHiCmXBp37p3TqkgLXtSXRL_kDRUS16z2u8zDItlUV5OZdSyP-dZOYSOIEogQDQPddBBpYSwvo)|Tablet|8.0-inch|3.0GB|16GB, 32GB|Android 9|✓|✗|✗|
+|Samsung|Galaxy Tab A|SM-T550, SM-P550, SM-T355C, SM-P355C, SM-T555, SM-P555M, SM-P355M, SM-T387R4, SM-T587P, SM-T510, SM-T517P, SM-T515, SM-T515N|[Here](https://lh3.googleusercontent.com/Zp4LoCLvukqkdUDRMIkJd5Jo8osoDVJdXlJ01Izt4supiW1vdBXqg7Rv9ZXEEhCQSCgcIByGq8fe)|Tablet|10.1-inch|3.0GB|16GB, 32GB|Android 9|✓|✗|✗|
 |Samsung|Galaxy J5 Pro|SM-J530G, SM-J530GM, SM-J530Y, SM-J530YM|[Here](https://lh3.googleusercontent.com/N5fhqUk6EFaz5_M2o_lVwR_D0F8GkikRu0MYEH44_gvW-TZ475J5vABoUd7tLNFZtpRVQXZkhINA5g)|Phone|5.2-inch|3.0GB|16GB, 32GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy On8|SM-J810GF, SM-J710FN|[Here](https://lh3.googleusercontent.com/1jp6WqyuByLEV0vBU3fOBhy2xsbDc182bpF44bcJsCzprMntoi0IG9GOYiiElxfVdgU4ObGVOfVH)|Phone|6.0-inch|3.0GB|32GB, 16GB|Android 9|✓|✓|✓|
-|Samsung|Galaxy Tab A|SM-T295C, SM-T550, SM-P550, SM-T355C, SM-P355C, SM-T555, SM-P555M, SM-P355M, SM-T387R4, SM-T587P, SM-T510, SM-T517P, SM-T515, SM-T515N|[Here](https://lh3.googleusercontent.com/HSKlNzM80WplQIwgdL0bbXMrOqgR8fDUpuDBgKv4wZhQA6Fo3X-edqtJSuB8iG2Y-kn8OjPCnvfW)|Tablet|10.1-inch|3.0GB|32GB, 16GB|Android 9|✓|✗|✗|
 |Samsung|Galaxy M10|SM-M105F, SM-M105G, SM-M105M, SM-M105Y|[Here](https://lh3.googleusercontent.com/zBN--PpJbHRwk3J0dlnCMcHjG0F2_rnGIDhxbce7bpxse28ZS8eut1axCcumnJHrRQqMHRLWON8)|Phone|6.2-inch|3.0GB|32GB, 16GB|Android 9|✓|✗|✗|
 |Samsung|Galaxy M20|SM-M205F, SM-M205M, SM-M205G, SM-M205FN, SM-M205N|[Here](https://lh3.googleusercontent.com/km9tdol0laQB9hZddyVL4TRRgKMB54TRdmKYaWs8eQlpn0xjcVcs3_5vUJp2iTGG6rMBsKl3aDVu)|Phone|6.3-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy S6 Active|SAMSUNG-SM-G890A|[Here](https://lh3.googleusercontent.com/CiM6YxviS_rgzmMRFyic7zXCriEGYQ8uU1JPThTj7U-5xdQPY2DfQtuljLI16CN5ZED4_RwUxnw)|Phone|5.1-inch|3.0GB|32GB|Android 7.0|✓|✗|✓|
@@ -5453,7 +5456,7 @@
 |Samsung|Galaxy A6+|SM-A605G, SM-A605F, SM-A605GN, SM-A605FN, SM-A6050|[Here](https://lh3.googleusercontent.com/TkCkMndhuu4b00-nJUScyRAHeilCWLs2YKoV0IDqb_eiUSfTGgEtNamGvM-RX4XQ_Cav70k9RWB_)|Phone|6.0-inch|4.0GB|32GB, 64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy J7 Prime2|SM-G611M, SM-G611MT, SM-G611FF|[Here](https://lh3.googleusercontent.com/Xsq3kcimQp2TBVB0xQGe8t43TIhKIuVCzvK9NlEV1eK8z6XDrBUI3ErK31etylKmQq3abHHS47zG)|Phone|5.5-inch|4.0GB|64GB, 32GB|Android 9|✓|✓|✗|
 |Samsung|Galaxy On7 Prime|SM-G611F, SM-G611L, SM-G611S, SM-G611K|[Here](https://lh3.googleusercontent.com/cOfiCTbYGTJ1wya2zB2pC6eFAteWy5Yi3asyu2RigQKgCN9QCdiC4KIAdIToDjfD3GFWy6qbiAg)|Phone|5.5-inch|4.0GB|64GB, 32GB|Android 9|✓|✓|✓|
-|Samsung|Galaxy A30|SM-A305GT, SM-A305F, SM-A305G, SCV43, SM-A305GN, SM-A305N, SM-A305YN, SM-A305FN, SCV43-j, SCV43-u|[Here](https://lh3.googleusercontent.com/DFXl0LI_uNnlDA8mLI9Z3p3SSJ6RntjJqC3k-mFNmRUZavFdtmSqwFiKXdNAKtDGz5OIOpBhWUG9aQ)|Phone|6.4-inch|4.0GB|64GB, 32GB|Android 9|✓|✓|✓|
+|Samsung|Galaxy A30|SM-A305F, SM-A305GT, SM-A305G, SCV43, SM-A305GN, SM-A305N, SM-A305YN, SM-A305FN, SCV43-j, SCV43-u|[Here](https://lh3.googleusercontent.com/JtMksh8zD8yfBqrwekpCr3MrGG3TTKyMog4aGwWJfro2R-q-WqEl-QHQeHLE7w8NqQ4wMI2tfFIGOw)|Phone|6.4-inch|4.0GB|64GB, 32GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy Tab S5e|SM-T727, SM-T720, SM-T725, SM-T725N, SM-T727V, SM-T725C|[Here](https://lh3.googleusercontent.com/2U2WYDIHWnTtrACLiSzjUWC6RO45eUgqOecpGlGrDCBMrDJ4xQZ8w7cQLEtwretUwe86gG4GSYyQ)|Tablet|10.5-inch|4.0GB|64GB, 128GB|Android 9|✓|✓|✗|
 |Samsung|Galaxy Tab S4|SM-T835N, SM-T830, SM-T837R4, SM-T837P, SM-T837A, SM-T837T, SM-T837, SM-T837V, SM-T835, SM-T835C|[Here](https://lh3.googleusercontent.com/qxQ5nKAmMtzl2XinxYp-lRGrTijCQhFtB7WQlT4cHQvMU5huPMPblnxL4CVqOGTLWLjZkjwerp9maQ)|Tablet|10.5-inch|4.0GB|64GB, 256GB|Android 9|✓|✗|✗|
 |Samsung|Galaxy S6 edge+|SM-G9287, SM-G928F, SM-G928G|[Here](https://lh3.googleusercontent.com/-vsOdxCT_G3X_BBZxvbhqJG5d0HPhSxKb_rM-ORaXx17YegwZUQxSPCDB95EFxHoHZpRNbpjxRwz)|Phone|5.7-inch|4.0GB|32GB|Android 7.0|✓|✓|✓|
@@ -6073,7 +6076,7 @@
 |TCT (Alcatel)|IDOL 5S|6060S|[Here](https://lh3.googleusercontent.com/8fe0EOxA5uC862Ilay5gPiWhHPxuvolc5AKiiCn9ayCAzD_V9DlUh-nyTo0L07Sg1B_8A5DvmNvf)|Phone|5.2-inch|3.0GB|32GB|Android 7.1.1|✓|✓|✗|
 |TCT (Alcatel)|Alcatel 5V|5060A, 5060D_RU|[Here](https://lh3.googleusercontent.com/JxkTQMuAdGJkZDfIiPCleTv59WEOMo8pcUY5zJrcptFvkWbovqODMjefgWRzs1YwgLeJkB4h5su7)|Phone|6.2-inch|3.0GB|16GB, 32GB, 64GB|Android 8.1.0|✓|✓|✓|
 |TCT (Alcatel)|Alcatel 5X|5060D, 5060J, 5060D_EEA|[Here](https://lh3.googleusercontent.com/_9qlNQxQWe996rMqFudcXlF1wYD0PRafin7VPrXX1nAeNQACdarUx56Ddh3_1c4Pm1BMp-11UTC4)|Phone|6.2-inch|3.0GB|16GB, 32GB, 64GB|Android 8.1.0|✓|✓|✓|
-|TCT (Alcatel)|Alcatel 3X|5048I, 5048U, 5058Y, 5058A, 5058T, 5058I, 5058J, 5058I_RU|[Here](https://lh3.googleusercontent.com/HBAX2uzNUGkcN-faQKvY6qSBVeDjNNJhp1fAKOjjZJBkczd4zmwlVdYn7pNF1MTDLs4666R261I)|Phone|6.5-inch|4.0GB|64GB, 32GB, 16GB|Android 9|✓|✓|✓|
+|TCT (Alcatel)|Alcatel 3X|5048A, 5048I, 5048U, 5058Y, 5058A, 5058T, 5058I, 5058J, 5058I_RU|[Here](https://lh3.googleusercontent.com/HBAX2uzNUGkcN-faQKvY6qSBVeDjNNJhp1fAKOjjZJBkczd4zmwlVdYn7pNF1MTDLs4666R261I)|Phone|6.5-inch|4.0GB|64GB, 32GB, 16GB|Android 9|✓|✓|✓|
 |TCT (Alcatel)|TCL 950|TCL 950|[Here](https://lh3.googleusercontent.com/khONRSICOckE_5pGoOosaOv3ccshrVFadeHyzV5U_P8Sn4hB6JOLWX8aHT8Fv-ePllZRn0zAKJ4EMg)|Phone|5.5-inch|4.0GB|64GB|Android 6.0.1|✓|✓|✓|
 |TERRA|TERRA PAD 101|TERRA_PAD_101|[Here](https://lh3.googleusercontent.com/p0jShZ6VBoDkDbfKzPmIKkoSBRErJZWIDMmy-WO4d2PoOhEnOG2WVcnjf4DIq5rOJOntQW0fltDRWg)|Tablet|10.1-inch|2.0GB|16GB|Android 8.1.0|✗|✗|✗|
 |TERRA|TERRA_PAD_1005POKO|TERRA_PAD_1005POKO|[Here](https://lh3.googleusercontent.com/cdhGNTHE4OusBWFTBuKEx8aMkaHHKPvi7_VfUcmh0f6fTowCeqh7CdIY5O_feYNBH2t4tJjiU9W_)|Tablet|10.1-inch|2.0GB|32GB|Android 8.1.0|✓|✗|✗|
@@ -6312,6 +6315,7 @@
 |Trimble Navigation|MM50|TDC100_WiFi, MobileMapper50_WiFi, TDC100_4G, MobileMapper50_4G|[Here](https://lh3.googleusercontent.com/BknAJP_zzL6tJJtbc_0OvciBvaowI9d9WK0qEQi8c2jGwdoOCqdghhXgBcK-uRsDyUq7tqCnQCDz)|Phone|5.3-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✓|
 |Trimble Navigation|TDC500 Handheld|TDC500|[Here](https://lh3.googleusercontent.com/HlWSH6Tc586HJU23op7IsjN52KWz6SqZyVMiwjPkMpyGIRMrnuUjsZkKRRGGOLzAZ2jczUHePeI)|Tablet|5.0-inch|4.0GB|32GB|Android 6.0.1|✗|✗|✗|
 |Trimble Navigation|TDC800 Handheld|TDC800|[Here](https://lh3.googleusercontent.com/rj-oh-okRCeQUzCZhnY4xkwg23p7dpJKcaw_0NtgDFLR57Aop2c-mdRlYJv13NEmSCaMK1jLNaKAGg)|Tablet|8.0-inch|4.0GB|32GB|Android 6.0.1|✗|✗|✗|
+|Trimble Navigation|E7167|MobileMapper60, TDC600|[Here](https://lh3.googleusercontent.com/NdOP8x_LPJPTZKkFkpPbBEa1Dppz7DUKPAbISX1KivegUmgC2M5Uke11gRKAXBWli7hlGqrEZuM0)|Phone|6.0-inch|4.0GB|64GB|Android 8.0.0|✓|✗|✓|
 |True|SMART 4G M1|SMART 4G M1|[Here](https://lh3.googleusercontent.com/RZrCNNpfirbBtvUWGyh1iyaGDf53c6oFQOzZvVX9AOSRPPWmrjnEBrFSS8c8UiWExPMC3UnS9ouH)|Phone|5.0-inch|1.0GB|16GB|Android 6.0|✓|✗|✗|
 |True|SMART TAB 4G M1|SMART TAB 4G M1|[Here](https://lh3.googleusercontent.com/oUHb7G56rT7z-nmP8m13hkK90PFxRmIM46GOtx8jq7REqMo4HvllUXi8qZNMmQgLmG2o8bFQrR9Y)|Tablet|8.0-inch|1.0GB|16GB|Android 6.0|✓|✗|✗|
 |True|SMART_Champ_4inch|SMART Champ 4.0|[Here](https://lh3.googleusercontent.com/RDfyEUxIfxXGeghYMbYANr9Z419iY2ohSoETwBZl3T0qyUNf85kq3KwoSMR0STiSrJNiPePDai4)|Phone|4.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
@@ -6327,10 +6331,10 @@
 |Turbokids|Turbokids-TMNT|Turbokids-TMNT|[Here](https://lh3.googleusercontent.com/uVuOrfFU9vYzBRULm8-hFzWTe99Ux69SLNceZERPenv9z3L3oEa5xXbf5Llc65_TjpmgSmF9T2U)|Tablet|8.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
 |Turbokids|Princess|Princess|[Here](https://lh3.googleusercontent.com/2rGO7Js3wsIn7mKTS0Ye4MLgtsqeT4kR31N1Tl65j9F4z5r7hGD5JDBqFy5AM3A29VfOxh4MJEym3A)|Tablet|7.0-inch|1.0GB|8GB|Android 7.1.2|✗|✗|✗|
 |Turbokids|TurbokidsP|TurbokidsP|[Here](https://lh3.googleusercontent.com/CI5UzMRCC3sFmIFdbDQ9JQjsWYTaZSodCRQ3PWlUijlaQe818CfpRPnZyYNwSRmNQN-n_CvQCpr3AA)|Tablet|7.0-inch|1.0GB|8GB|Android 7.1.2|✗|✗|✗|
-|Turbonet|TN500A1|TN500A1|[Here](https://lh3.googleusercontent.com/ppbeSGQVxpaFiQaxR1MYHoY-x4GlHSW6bU_-1C6T4coJSsss69XeO-0eyIAW1F_5w7gbvQoEDb0YRw)|Phone|5.0-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✓|
 |Turbonet|ADR1776|ADR1776|[Here](https://lh3.googleusercontent.com/ssS0TVaEicXbp87En75JfP5SHopIt7upeT9nNvetAxgQfxv-URfg2xpPd-LRTQsmavw6CvCI4bTr)|Phone|5.0-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✓|
 |Turbonet|TurboTab E1|TN800A1|[Here](https://lh3.googleusercontent.com/gMsMt3kLglQjQLOy75xNzqRvDoHatij3dwO7BDMy-FUhOnfUDGhQLtfA-AzCFfmZzvP0yF5Pf8Hv9g)|Tablet|8.0-inch|2.0GB|16GB|Android 6.0.1|✗|✗|✓|
 |Turbonet|TN451A1|TN451A1|[Here](https://lh3.googleusercontent.com/3peQxqBuHJ3HknUfv4Tmmn9YBEsd7iZi5PukGN0_BRR7SD6uSFuFUu2ytoVLkJlBWBlfuTf5uu8Y0Q)|Phone|4.5-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
+|Turbonet|TN500A1|TN500A1|[Here](https://lh3.googleusercontent.com/ppbeSGQVxpaFiQaxR1MYHoY-x4GlHSW6bU_-1C6T4coJSsss69XeO-0eyIAW1F_5w7gbvQoEDb0YRw)|Phone|5.0-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
 |Turbopad|TurboX|TurboX_Ray|[Here](https://lh3.googleusercontent.com/h_fnV8JsWIDGFEwfZaNlK8jw88ZCEP_h0yLebnbJ7GTxpZPhbjqSuQlTyPoJXtzDbDkh48Blv_UBiA)|Phone|5.0-inch|1.0GB|16GB|Android 7.0|✓|✗|✗|
 |Turbopad|Turbopad1016|Turbopad1016|[Here](https://lh3.googleusercontent.com/sM3t_I2V_SJyaHVUoqH4JGQPqgOL7RcEQZYnWo3hahl7Pu_ocXs865pp7BcCcc2PDMN_9QTqtUAL)|Tablet|10.1-inch|1.0GB|16GB|Android 7.0|✓|✗|✗|
 |Turbopad|S5|S5|[Here](https://lh3.googleusercontent.com/XR52Y5GkDOxD-yXIkVLs_QtbIKy1KK8FnIOBwudWaOM_gAkq0fv8HstuCqL0obF5AYcf5XKAzHCv)|Tablet|7.0-inch|1.0GB|8GB|Android 7.1.2|✗|✗|✗|
@@ -6611,8 +6615,8 @@
 |Vivo|Y53|vivo 1606|[Here](https://lh3.googleusercontent.com/on9RlPyijVZPPhXsP6l1Y1h3Qq3d2P87TnSvER4v85Wl1a3JORVFL0bgrOy_Dldyq1hk1a1n26HS)|Phone|5.0-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✗|
 |Vivo|Y55|vivo 1603|[Here](https://lh3.googleusercontent.com/tO3DuYKGK_X-3aGSNxO-dK70dynVskzwBKn25-FRkp2HjbPREZzisisVej7_rXPnJDWjasgy0qEY)|Phone|5.2-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✗|
 |Vivo|vivo 1812|vivo 1812|[Here](https://lh3.googleusercontent.com/ExXbgtjpgeKdLG52-0gafTkfIFBdqr_kN_5npDPffZOA8RtB4uPnkoV_GO74kR2LWUZvJm4vYpTsxw)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
-|Vivo|vivo 1820|vivo 1820|[Here](https://lh3.googleusercontent.com/BWN2c1C9eYsNbWCLwCyzFfSq8PLILPiI3ZHr0NFhUWhGqJjC1y9Dl4WaaUhhQHuDY0WPJvJKlWjG5A)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |Vivo|vivo 1816|vivo 1816|[Here](https://lh3.googleusercontent.com/4SruDsP3A5EBMExhnW6elLFwLbi5_y88BCHvNmw1vYLFV2LsaDLpjHxvgKHDlTgBkUs8dYU6KmeU)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
+|Vivo|vivo 1820|vivo 1820|[Here](https://lh3.googleusercontent.com/BWN2c1C9eYsNbWCLwCyzFfSq8PLILPiI3ZHr0NFhUWhGqJjC1y9Dl4WaaUhhQHuDY0WPJvJKlWjG5A)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |Vivo|vivo 1817|vivo 1817|[Here](https://lh3.googleusercontent.com/tDX_jgUL25MFss7HnerE8V5jYBqawA0urrXNX37eiZLouEDIrPthcQPSPKh1xlyNQr1HtV_tiVvF)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Vivo|Y71|vivo 1801|[Here](https://lh3.googleusercontent.com/-ua0YWasLE3VixuwGywTh6UKVsiTrVWAYbW6ROJdm49tiFi8vwB7Qwzc-jNqIXl7JogUM388n4nB)|Phone|6.0-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |Vivo|vivo 1904|vivo 1904|[Here](https://lh3.googleusercontent.com/X3eJl_0zgtqa7LCZKZzP-xdf_190xONs2dl9RJXMf9SJ4zUchaPrdhXZXIF7AFZFa0GtWQ2PWko)|Phone|6.4-inch|3.0GB|64GB|Android 9|✓|✓|✗|
@@ -6647,8 +6651,8 @@
 |Vivo|vivo 1720|vivo 1720|[Here](https://lh3.googleusercontent.com/JEsBYvapRHNzk58g687vPdFMCF5vSE243g0SZQjUxY-V0p792_fm5XFXW_yNGIYD72QdOLHGF7hM)|Phone|6.4-inch|4.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Vivo|vivo 1611|vivo 1611|[Here](https://lh3.googleusercontent.com/a_LbPm8jCgQR6s_BVRQGYpSC5gsarEMJ0We5MIVY7SeRgHImAbMFFDxPjH8rXMA_WmS-BShD9Frf-A)|Phone|5.5-inch|4.0GB|64GB|Android 7.1.2|✓|✓|✗|
 |Vivo|V1730EA|V1730EA|[Here](https://lh3.googleusercontent.com/TysGHzOgOhHq3NYhnMwwNTRviCz30pEzACQeWpppg5GTw9VLUdLpeOKPPmGvOuq5UwV97HkQkHI)|Phone|6.3-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
-|Vivo|vivo 1802|vivo 1802|[Here](https://lh3.googleusercontent.com/vuxjF_y-5wRsbBPiHPUk3SP4Ese3PKZ13xGEH1dxmWXAriu9-H7NNTtP99VHmRRTsYofxS4NVxQ)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1726|vivo 1726|[Here](https://lh3.googleusercontent.com/cJl368p7k4RHgtx43lWlcAITbPP5EzssNBgDCNnWo9RhAQSUKlb6FbF9AO9ZviMVuq8eb7lwOrIE)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
+|Vivo|vivo 1802|vivo 1802|[Here](https://lh3.googleusercontent.com/vuxjF_y-5wRsbBPiHPUk3SP4Ese3PKZ13xGEH1dxmWXAriu9-H7NNTtP99VHmRRTsYofxS4NVxQ)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1815|vivo 1815|[Here](https://lh3.googleusercontent.com/6htqHuqSHI2r0nL1ZMKsQXkyLvtLrvgJyFaG-jEJMwg1vmN9EisFEbY1AlITGyudSozu5i7EkP51)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1718|vivo 1718|[Here](https://lh3.googleusercontent.com/AGKKn9fIFCBeWjtL_dsUubfCnfWTWz9WXddURZyj0uAr5ezBLicPHKALcmZVLvaPslJYDhETnIy4-A)|Phone|6.0-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo X9s|vivo X9s, vivo PD1616B|[Here](https://lh3.googleusercontent.com/aGiQlxTy0GoYUbabsUWVDt1NDImW1kWshA-tD01q2PyYQbXCWhUAMfES3Ts63iU5YB2RPQzwjain0A)|Phone|5.5-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
