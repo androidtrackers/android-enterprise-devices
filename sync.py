@@ -62,10 +62,10 @@ def diff_files():
     """
     with open('old.md', 'r') as old, open('README.md', 'r') as new:
         diff = difflib.unified_diff(old.readlines(), new.readlines(), fromfile='old', tofile='new')
-    changes = [line for line in diff if line.startswith('+')]
-    deletes = [line for line in diff if line.startswith('-')]
-    adds = [line for line in changes if line not in deletes]
-    new = ''.join(adds[1:]).replace("+", "")
+    changes = [line.split('+')[1] for line in diff if line.startswith('+')]
+    deletes = [line.split('-')[1] for line in diff if line.startswith('-')]
+    adds = [line for line in changes[1:] if line not in deletes[1:]]
+    new = ''.join(adds).replace("+", "")
     with open('changes', 'w') as out:
         out.write(new)
 
