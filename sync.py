@@ -3,6 +3,7 @@
 
 import difflib
 from datetime import date
+from itertools import tee
 from os import rename, path, system, environ
 from requests import get, post
 
@@ -62,10 +63,11 @@ def diff_files():
     """
     with open('old.md', 'r') as old, open('README.md', 'r') as new:
         diff = difflib.unified_diff(old.readlines(), new.readlines(), fromfile='old', tofile='new')
-    changes = [line.split('+')[1] for line in diff if line.startswith('+')]
-    deletes = [line.split('-')[1] for line in diff if line.startswith('-')]
-    adds = [line for line in changes[1:] if line not in deletes[1:]]
-    new = ''.join(adds).replace("+", "")
+    d1, d2 = tee(diff, 2)
+    changes = [line.split('+')[1] for line in d1 if line.startswith('+')]
+    deletes = [line.split('-')[1] for line in d2 if line.startswith('-')]
+    adds = [line for line in changes[1:] if '|'.join(line.split('|')[:3]) not in str(deletes[1:])]
+    new = ''.join([i for i in changes if '|'.join(i.split('|')[:3]) in str(adds)])
     with open('changes', 'w') as out:
         out.write(new)
 
