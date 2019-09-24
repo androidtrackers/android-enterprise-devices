@@ -1000,7 +1000,7 @@
 |Casper|VIA_A3|VIA_A3|[Here](https://lh3.googleusercontent.com/iovfJzwIm8zv2i8eZBz32PAbvBKxJLvKdwVjsKkW-apZOV2u7cvnVewNh6lnftiwRFEr6O5QqU5L_Q)|Phone|6.2-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Casper|VIA A3 Plus|VIA_A3_Plus|[Here](https://lh3.googleusercontent.com/yhSX-6BUFjBoa66zavkCFAHY3-JNuM__pxJJ9y2paTzkTwOuUo_QuKEqwjrJDtb1KFx6pfKnqns)|Phone|6.2-inch|6.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Cat|Cat S31|S31|[Here](https://lh3.googleusercontent.com/gRRvzUvuDLXzCOz7KxLnZ67qH3oGn1YmuDHZgEOJZUiV0n0M2Xwc8AhZigowI7RaHTlDFPQZz8I)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
-|Cat|Cat S41|S41|[Here](https://lh3.googleusercontent.com/-2VmwByvIkrVID2fNzpL4xZmarcVBE5xifO6AIBh-to9EpIiKUEvTuMj2Ug9pJxrRkrjdzk7yTMs)|Phone|5.0-inch|3.0GB|32GB|Android 8.0.0|✓|✗|✓|
+|Cat|Cat S41|S41|[Here](https://lh3.googleusercontent.com/t-UmgrCQ0dTx8gLgoe_nM2-yJvDuog1h6SegAfDT7SSGrHZSnKYA9h4bp7g_Myq0mR_ugkTon70)|Phone|5.0-inch|3.0GB|32GB|Android 8.0.0|✓|✗|✓|
 |Cat|Cat S48c|S48c|[Here](https://lh3.googleusercontent.com/911gxo2NpcqQRDBo19iUsIyvccw3NlDZgPechXIAfsg4VS_GciNbvlayRZVJp3CAaDfpFHd5Mlw)|Phone|5.0-inch|4.0GB|32GB|Android 8.1.0|✓|✗|✓|
 |Cat|Cat S61B|S61B|[Here](https://lh3.googleusercontent.com/O-xrXLcAqHemxr06nJzzHig0DCjUoDzRenhx0xMUJ6BRaKmEbIZY4FuACAjBZ0tiI_llU_1RHfjv)|Phone|5.2-inch|4.0GB|64GB|Android 8.1.0|✓|✗|✓|
 |Cat|Cat S61|S61|[Here](https://lh3.googleusercontent.com/O-xrXLcAqHemxr06nJzzHig0DCjUoDzRenhx0xMUJ6BRaKmEbIZY4FuACAjBZ0tiI_llU_1RHfjv)|Phone|5.2-inch|4.0GB|64GB|Android 8.1.0|✓|✗|✓|
@@ -1772,13 +1772,13 @@
 |Evercoss|U60|U60|[Here](https://lh3.googleusercontent.com/VeC1Lre__zkoBK0bsVNyJVkQaQ-kNhSiymeI6WtXtyXAjAFy3aHCIUyZXPDWzElUFHdBpcs14XUt)|Phone|5.7-inch|1.0GB|8GB|Android 7.0|✓|✓|✗|
 |Evercoss|U50C|U50C|[Here](https://lh3.googleusercontent.com/9Ao-OWjrfYotzLr6SGL64vuCWTfZ4_ZC_-ZdikxG2hvGWiDlzRW5SmO-6fr8wtSLYqnfLpMRlEdW)|Phone|5.0-inch|1.0GB|16GB|Android 7.0|✓|✗|✗|
 |Evercoss|One X|EVERCOSS A65|[Here](https://lh4.ggpht.com/x45shb0Rv687h6SVTq0iO8IiSXuyVxGl0JrH9sKctI1RTb-DnoNdpWKFKn8WpIaEZHinLotAGX-V8w)|Phone|4.5-inch|1.0GB|8GB|Android 6.0.1|✓|✗|✗|
+|Evercoss|U6A|U6A|[Here](https://lh3.googleusercontent.com/59KtReqjpaIV0xSsxYCkhbegZP8KcpwW2erviaiq5-lZm01nVNaK0_jWLP3WJjJHCzcOo7qfMDyT)|Phone|5.5-inch|2.0GB|16GB|Android 9|✓|✓|✗|
 |Evercoss|U6C|U6C|[Here](https://lh3.googleusercontent.com/ap2kDD89vDpQT204Zq_cOXoW-X9uf6k86-d-D0wzyq3Vh7XsCd5PieVJRr1TuKRyXoOgAd_ZVODO)|Phone|6.1-inch|2.0GB|16GB|Android 9|✓|✗|✗|
 |Evercoss|U50A MAX|U50A MAX|[Here](https://lh3.googleusercontent.com/vIZaxGMLF_T9xZpVlXduKJR7a14-HZ2V1ZuPhJZCcz3OxNUB2KMWq_nZ2bwGOhBf-vJ1wxuKg_j-tw)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|M50A MAX|M50A MAX|[Here](https://lh3.googleusercontent.com/u06zN3LSedc3ZOm8S24n8jZWoxHGIwbgWGjutNml6-HPdW1cyf55mJL44POlOmH3svkmXDSH-SY)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|M50A|M50A|[Here](https://lh3.googleusercontent.com/tGF69pkDyaAD6ZiU8LnIzsjy-CzvKNcJRhYh6_yf3WhxsRKcQFxzhrAmLviEGwFqK3n5kcYvs6g0)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|U50A_PLUS|U50A_PLUS|[Here](https://lh3.googleusercontent.com/d802597PoHF8dNmEpCJ-6dQML7964gVOuhFxV8JS6cR7snDXl5ySi2K2SxBp7LDgpAhxb1Ugoxht)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|U50A|U50A|[Here](https://lh3.googleusercontent.com/6okMSxAnM-LdwChUX1QeX8xArJ8IdPiTb3EKy8bQaS3FEjUortIeNtj-RZ2XMs87uf6aeQ7fE9XV6A)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
-|Evercoss|U6A|U6A|[Here](https://lh3.googleusercontent.com/59KtReqjpaIV0xSsxYCkhbegZP8KcpwW2erviaiq5-lZm01nVNaK0_jWLP3WJjJHCzcOo7qfMDyT)|Phone|5.5-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|S55B|S55B|[Here](https://lh3.googleusercontent.com/zFxuFaHAJPPxM4S3LIYkJoXOkSPC1jIh90yAo9dy9l9WAVeo3TqwIci1pd5xq8Raur6PRVMzKG8)|Phone|5.5-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|U60A|U60A|[Here](https://lh3.googleusercontent.com/-JDMHVXooGNQF_ptIoRDrMH0vs4g1Wdcedye9rsvRRCE9-i0UungOtxLPYnejfrU8_1_ZtuO0OBEAA)|Phone|5.7-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Evercoss|U6B|U6B|[Here](https://lh3.googleusercontent.com/Mj9u804z84jSJDJe2Be2xixlWA-t2HEy0cEUCKV70zwfLKJ4d0WWjWuHA2K4g4CJq6gOs9IuNx2V)|Phone|5.5-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
@@ -2378,6 +2378,7 @@
 |Hoozo|HZ0011|HZ0011|[Here](https://lh3.googleusercontent.com/157JRE4m_fBXonJ4obme2G6OLsX3F4juhLFrRruT2EEPCSjxoW9kt27FTBJXEDtb62LfqGRBXCs)|Tablet|10.1-inch|2.0GB|32GB|Android 9|✓|✗|✗|
 |Hot Pepper|H5|H5|[Here](https://lh3.googleusercontent.com/58oFidL_7z_mfEPcb-3KpjABlHtPk51xluTrNJditpdYAy33HDxtMh5ulbX5M-Vr7SEKMrkyeEQ4Ug)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
 |Hot Pepper|VLE5|VLE5, VLE5A|[Here](https://lh3.googleusercontent.com/xIL71Dhk1KXooaBqNU9L22zLQNDY8NCINKOV935I2DoIY9KCoAFzntpwZrFZbXW23cTvUVPJbr8)|Phone|5.0-inch|2.0GB|8GB, 16GB|Android 8.1.0|✓|✗|✗|
+|Hot Pepper|Ghost|HPP-GS1|[Here](https://photos-image-qa.corp.google.com/ldopySrJJjh_75b0VjUW9VJjC7A9tM-MWfdeD8SvGHP9A2NCIP2qZ4DlkiWcG8Xhf3LDom_Tj8Vh6w)|Phone|6.0-inch|3.0GB|32GB|Android 9|✓|✓|✗|
 |Hotwav|Magic 5|Magic 5|[Here](https://lh3.googleusercontent.com/2YuO8LTXOUET1FnTuq-dxc9alIM1k935g1FClj4x4YJ3188RTwIpROGRwDilj3ulkQVub0OmXFw5)|Phone|5.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
 |Hotwav|Magic_5_Plus|Magic 5 Plus|[Here](https://lh3.googleusercontent.com/7reNzk3CiMRF49N94XNbjO7VSzRuaqle8_N1nHDUQr5ypJ_gDOG8Yuo2HyJOigmoiJQ7B2CDnYs)|Phone|5.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
 |Hotwav|Symbol M1|Symbol M1|[Here](https://lh3.googleusercontent.com/lhtQIExoX5cO-40Sbp3cEt2Ob120dGxnPsUgslEy2ZCErvdmjWhLuvTaAeSHzie49MvRxBTrkVNR)|Phone|5.5-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
@@ -3923,6 +3924,7 @@
 |Masstel|Masstel Juno Q7|Juno Q7|[Here](https://lh3.googleusercontent.com/B9RhsWg7EooVqnl71yh-1cKSOvONU8dtqOnqjcaHbj1IsaUKfwCS1iJZv_QO3LqgtRje3s6yEF5XEA)|Phone|5.3-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
 |Masstel|N535|Masstel N535|[Here](https://lh3.googleusercontent.com/7pcQ8So2KSE_4msvQV1l_0Z5HHbupTUhHse9XjeROKJDJbzeSi1FennQOeI8phPwra5WjMSm95YXqw)|Phone|5.0-inch|1.0GB|8GB|Android 7.0|✓|✗|✗|
 |Masstel|Masstel Juno Q5 Plus|Masstel_Juno_Q5Plus|[Here](https://lh3.googleusercontent.com/HQEd72SPcaLgb-rmRZqXonwQKd4ic2ggGwLapVWr863e2ecllbaXJyTBaCewYIrvStS1FYNwXBAB0Q)|Phone|5.0-inch|1.0GB|16GB|Android 7.0|✓|✗|✗|
+|Masstel|Masstel_X9|Masstel_X9|[Here](https://photos-image-qa.corp.google.com/C8uIU8r5-xX1EuqiINEUyl9pQCWrOnU8yF_CskY1ThW4_86xoibWL3bC1fCIUWOxEMxKaSKx-A)|Phone|5.5-inch|2.0GB|16GB|Android 9|✓|✓|✗|
 |Masstel|Tab8Pro|Tab8Pro|[Here](https://lh3.googleusercontent.com/O0F9fCCgiE3ZWFeK8M2OOssuykabv8MV4Pj7B7Lrp4nAQP3HuEXk2YrdVrbnTJml4W3XcJgIlufYZw)|Tablet|8.0-inch|2.0GB|16GB|Android 9|✓|✗|✗|
 |Masstel|LT52|Masstel LT52|[Here](https://lh3.googleusercontent.com/cCDQdMr-_MWEGKokf_DGGSlEqTB8ewp8oTDFGqS8S1NE4_XtrpM_Ri7Up7Jbb3ufkrkzFCadMjH8Ig)|Phone|5.0-inch|2.0GB|16GB|Android 7.0|✓|✗|✗|
 |Masstel|Masstel Juno S6|Masstel_Juno_S6|[Here](https://lh3.googleusercontent.com/l69tdzO78foSAJIucYwe9LsZzA9sy0TfEUBzyu9iMCUnW6AsWl4LMxIcNzlzbqA0dN6-nSN8JRc)|Phone|5.5-inch|2.0GB|16GB|Android 7.0|✓|✓|✗|
@@ -4709,6 +4711,7 @@
 |Oppo|CPH1805|CPH1805|[Here](https://lh3.googleusercontent.com/NgIe8xNyvYkeixNtl57pyV9VUfQCS73A114FKJTvXvRLf9x4n7r_JlfEX1Y6TdDnGz5aa0dKYQ)|Phone|6.2-inch|3.0GB|32GB|Android 8.1.0|✓|✗|✗|
 |Oppo|AX5s|CPH1920|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.2-inch|3.0GB|64GB|Android 8.1.0|✓|✗|✗|
 |Oppo|CPH1909|CPH1909|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.2-inch|3.0GB|64GB|Android 8.1.0|✓|✓|✗|
+|Oppo|R11|OPPO R11, OPPO R11t|[Here](https://lh3.googleusercontent.com/jUi-vzDu_-2JJeTGA0uDYYCj2wOSzCEl27VL3-LC2C7oRa9npkvlf4Mp0y9sBc8jygqzZ0ItKZOHMA)|Phone|5.5-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|realme X|RMX1901|[Here](https://lh3.googleusercontent.com/dOR56w3xCgol5yV1ahuyr8rUOQW7BixJiuDm9WJcghwlRCT1wbVsSLp4IY0XD_dVHb5q8sXWn36-)|Phone|6.5-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|R11st|OPPO R11st|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.0-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|R11s|OPPO R11s|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.0-inch|4.0GB|64GB|Android 9|✓|✓|✗|
@@ -4740,7 +4743,6 @@
 |Oppo|CPH1719|CPH1719|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.0-inch|4.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Oppo|CPH1827|CPH1827|[Here](https://lh3.googleusercontent.com/2rr-wrGGukHwvyqUxQvS3KwpjwQXFAvHxsl9df3RGwqOVSy8QjZY6BP5Z2GlCZEWLTiOkSfWC9MXXw)|Phone|5.7-inch|4.0GB|64GB|Android 7.1.1|✓|✗|✗|
 |Oppo|A5|PBAM00, CPH1809, PBBM30, PBAT00, PBBT30|[Here](https://lh3.googleusercontent.com/NgIe8xNyvYkeixNtl57pyV9VUfQCS73A114FKJTvXvRLf9x4n7r_JlfEX1Y6TdDnGz5aa0dKYQ)|Phone|6.2-inch|4.0GB|32GB|Android 8.1.0|✓|✓|✗|
-|Oppo|R11|OPPO R11, OPPO R11t|[Here](https://lh3.googleusercontent.com/jUi-vzDu_-2JJeTGA0uDYYCj2wOSzCEl27VL3-LC2C7oRa9npkvlf4Mp0y9sBc8jygqzZ0ItKZOHMA)|Phone|5.5-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|A7n|PCDT00|[Here](https://lh3.googleusercontent.com/J1fyHG-Dej047HboE1W0qhgiiZao5DPz0e6zud0v-C6Rx5wgW8L3Fh8LVv_yBmAHjVGVB0WATqGRmw)|Phone|6.2-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✓|
 |Oppo|AX7|CPH1903|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.2-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|CPH1903|CPH1903|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.2-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✗|
@@ -4751,6 +4753,8 @@
 |Oppo|A3s|CPH1803, CPH1853|[Here](https://lh3.googleusercontent.com/KtBiGY8AvMNcDXGY3PuIZub5lWgqpKODLB65g2MhzV5Nq5R8Om-tldUc0wQPBuYA9wJ2XhGBXx0)|Phone|6.2-inch|4.0GB|64GB, 16GB|Android 8.1.0|✓|✗|✗|
 |Oppo|R15x|PBCM10, PBCT10|[Here](https://lh3.googleusercontent.com/sYgznpPrybrDqxUUHZRJ7M-2i-pIIPSeVKrQq72Ol6Hi675iomFyRfwhmVq4b9G2E12mpRPlB8U)|Phone|6.4-inch|4.0GB|128GB, 64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|R11 Plusk|OPPO R11 Plusk|[Here](https://lh3.googleusercontent.com/RNkjYbWYKIJk3DUecHRNTHjJXCWMbu-KJt3xKtT1RutqRg39bEa3dYCpKHe61CuYndRzYOVKXTYh)|Phone|6.0-inch|6.0GB|64GB|Android 9|✓|✓|✗|
+|Oppo|R11 Pluskt|OPPO R11 Pluskt|[Here](https://lh3.googleusercontent.com/RNkjYbWYKIJk3DUecHRNTHjJXCWMbu-KJt3xKtT1RutqRg39bEa3dYCpKHe61CuYndRzYOVKXTYh)|Phone|6.0-inch|6.0GB|64GB|Android 9|✓|✓|✗|
+|Oppo|R11 Plus|OPPO R11 Plus|[Here](https://lh3.googleusercontent.com/RNkjYbWYKIJk3DUecHRNTHjJXCWMbu-KJt3xKtT1RutqRg39bEa3dYCpKHe61CuYndRzYOVKXTYh)|Phone|6.0-inch|6.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|R11sPlus|OPPO R11s Plus|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.4-inch|6.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|R11sPlust|OPPO R11s Plust|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.4-inch|6.0GB|64GB|Android 9|✓|✓|✗|
 |Oppo|F11 Pro|CPH1969, CPH1987|[Here](https://lh3.googleusercontent.com/S_VS8Kz3p8nCHt6PgDfICXHE70bPe8S4Z8wHY0S0xnbyPw6zVCyhSGzkwYPVJfAwLw_qNfPLlTA)|Phone|6.5-inch|6.0GB|128GB|Android 9|✓|✓|✗|
@@ -4766,8 +4770,6 @@
 |Oppo|CPH1727|CPH1727|[Here](https://lh3.googleusercontent.com/ei1RDmDHbQTdG8vHBkoos88Z90Yqi7FSDntfBJkJk4NE_F01AryVwmCLq-LgAEklJ3Wd4Q5JZGU9)|Phone|6.0-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Oppo|R9s Plus|OPPO R9sPlus, OPPO R9s Plust, OPPO R9s Plus, CPH1611|[Here](https://lh3.googleusercontent.com/OBUv3HEBAzVZPegpBnADPIaqtya3jfAxIBtFPi3w-t_Sd02nfTcXzYzdBwHMDvUoiiz4XLib_siv)|Phone|6.0-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Oppo|CPH1721|CPH1721|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.4-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
-|Oppo|R11 Pluskt|OPPO R11 Pluskt|[Here](https://lh3.googleusercontent.com/RNkjYbWYKIJk3DUecHRNTHjJXCWMbu-KJt3xKtT1RutqRg39bEa3dYCpKHe61CuYndRzYOVKXTYh)|Phone|6.0-inch|6.0GB|64GB|Android 8.1.0|✓|✓|✗|
-|Oppo|R11 Plus|OPPO R11 Plus|[Here](https://lh3.googleusercontent.com/RNkjYbWYKIJk3DUecHRNTHjJXCWMbu-KJt3xKtT1RutqRg39bEa3dYCpKHe61CuYndRzYOVKXTYh)|Phone|6.0-inch|6.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|K1|PBCM30|[Here](https://lh3.googleusercontent.com/sYgznpPrybrDqxUUHZRJ7M-2i-pIIPSeVKrQq72Ol6Hi675iomFyRfwhmVq4b9G2E12mpRPlB8U)|Phone|6.4-inch|6.0GB|64GB|Android 8.1.0|✓|✓|✗|
 |Oppo|Reno 标准版|PCAM00, PCAT00|[Here](https://lh3.googleusercontent.com/eGb7yQFPb7ek-TUfKOvP29l9aC_0D-M0rLZKhTd5Q4sdHp52Jl4ciXR2atoHYFdgXKpvMorPiDQ)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|Reno|CPH1917|[Here](https://lh3.googleusercontent.com/dOR56w3xCgol5yV1ahuyr8rUOQW7BixJiuDm9WJcghwlRCT1wbVsSLp4IY0XD_dVHb5q8sXWn36-)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
@@ -6090,7 +6092,7 @@
 |T-Mobile|REVVL 2 PLUS|REVVL 2 PLUS|[Here](https://lh3.googleusercontent.com/o33G0SPHpRRCx4nJG1t1zDLOERhE_4QUzNvZd-vJwUyVU-TS3hA-nkYdc6TD-mDO1jGNNpG0DaI)|Phone|6.0-inch|2.0GB|32GB|Android 8.1.0|✓|✓|✗|
 |T-Mobile|REVVLRY+|REVVLution, REVVLRY+|[Here](https://lh3.googleusercontent.com/ThrCihhzeBGLkKrfRCS3CUkOZFCFNB2QyPuPB__cn-Cym5U4meD3kw0vtLdlzCSoshKVbp1f838)|Phone|6.2-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |TAG-DC|TAG-DC|TAG-DC|[Here](https://lh3.googleusercontent.com/cMEC9YaV8rc8z1fXxv2zA6j3O4fZ3m9Z7_6g4C3zZM9NLB05I36QYdAVo1Xr8xvasKHjxASJb1BRKg)|Tablet|10.1-inch|4.0GB|64GB|Android 9|✓|✗|✗|
-|TCL|TCL L9 Plus|5101A|[Here](https://lh3.googleusercontent.com/YKrERu2m39NByzgfuI-o48mpUy9yb2fgr64MDY4JBanxCqfcyQu7OVzkmYj8DQPjDLVEQvYAuFMD)|Phone|5.5-inch|1.0GB|16GB|Android 9|✓|✓|✗|
+|TCL|TCL L9 Plus|5101A, 5101J|[Here](https://lh3.googleusercontent.com/YKrERu2m39NByzgfuI-o48mpUy9yb2fgr64MDY4JBanxCqfcyQu7OVzkmYj8DQPjDLVEQvYAuFMD)|Phone|5.5-inch|1.0GB|16GB|Android 9|✓|✓|✗|
 |TCL|C9|5199I|[Here](https://lh3.googleusercontent.com/jfBAUq76hCmcfFBa2tBgO65KBX4JNlMMFyzyKzm1ql6FE4Ng4IQ4tE5MxehFC2jt5uFOaNZrJSDF)|Phone|6.0-inch|2.0GB|16GB|Android 8.0.0|✓|✓|✗|
 |TCL|TCL L10|5124J|[Here](https://lh3.googleusercontent.com/5zmu1aCu1zKBwwNfzSEQEi4Pc428BFk3CsdUoRyGcxKX-RFTLL4AYnAee_SE-N_KVm0Dwqy1QvK-)|Phone|5.5-inch|3.0GB|32GB|Android 9|✓|✓|✗|
 |TCL|TCL T7|5186A|[Here](https://lh3.googleusercontent.com/XAarOlwwTJiLNGtLAEIVU1oxjbnBsoUA-xCDrLBZyJVwpARoBLqhIKVpZqZPnJ_uOe1KTz2eE6yN)|Phone|5.7-inch|3.0GB|16GB, 32GB|Android 7.0|✓|✓|✗|
@@ -6805,8 +6807,8 @@
 |Vivo|Y53|vivo 1606|[Here](https://lh3.googleusercontent.com/on9RlPyijVZPPhXsP6l1Y1h3Qq3d2P87TnSvER4v85Wl1a3JORVFL0bgrOy_Dldyq1hk1a1n26HS)|Phone|5.0-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✗|
 |Vivo|Y55|vivo 1603|[Here](https://lh3.googleusercontent.com/tO3DuYKGK_X-3aGSNxO-dK70dynVskzwBKn25-FRkp2HjbPREZzisisVej7_rXPnJDWjasgy0qEY)|Phone|5.2-inch|2.0GB|16GB|Android 6.0.1|✓|✗|✗|
 |Vivo|vivo 1812|vivo 1812|[Here](https://lh3.googleusercontent.com/ExXbgtjpgeKdLG52-0gafTkfIFBdqr_kN_5npDPffZOA8RtB4uPnkoV_GO74kR2LWUZvJm4vYpTsxw)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
-|Vivo|vivo 1816|vivo 1816|[Here](https://lh3.googleusercontent.com/4SruDsP3A5EBMExhnW6elLFwLbi5_y88BCHvNmw1vYLFV2LsaDLpjHxvgKHDlTgBkUs8dYU6KmeU)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1820|vivo 1820|[Here](https://lh3.googleusercontent.com/BWN2c1C9eYsNbWCLwCyzFfSq8PLILPiI3ZHr0NFhUWhGqJjC1y9Dl4WaaUhhQHuDY0WPJvJKlWjG5A)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
+|Vivo|vivo 1816|vivo 1816|[Here](https://lh3.googleusercontent.com/4SruDsP3A5EBMExhnW6elLFwLbi5_y88BCHvNmw1vYLFV2LsaDLpjHxvgKHDlTgBkUs8dYU6KmeU)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Vivo|vivo 1817|vivo 1817|[Here](https://lh3.googleusercontent.com/tDX_jgUL25MFss7HnerE8V5jYBqawA0urrXNX37eiZLouEDIrPthcQPSPKh1xlyNQr1HtV_tiVvF)|Phone|6.2-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Vivo|Y71|vivo 1801|[Here](https://lh3.googleusercontent.com/-ua0YWasLE3VixuwGywTh6UKVsiTrVWAYbW6ROJdm49tiFi8vwB7Qwzc-jNqIXl7JogUM388n4nB)|Phone|6.0-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |Vivo|vivo 1904|vivo 1904|[Here](https://lh3.googleusercontent.com/X3eJl_0zgtqa7LCZKZzP-xdf_190xONs2dl9RJXMf9SJ4zUchaPrdhXZXIF7AFZFa0GtWQ2PWko)|Phone|6.4-inch|3.0GB|64GB|Android 9|✓|✓|✗|
