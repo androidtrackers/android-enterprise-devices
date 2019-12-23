@@ -7511,6 +7511,7 @@
 |ZTE|ZTE BLADE V9|ZTE BLADE V9, ZTE BLADE V0900|[Here](https://lh3.googleusercontent.com/Pkb9yAM3CZbwZWb2GXk8QtiIs-pixghn-cYMYBjR-1fRo7Nj8kc2O-Yi8LV3firPEsSHshAJpSb8YA)|Phone|5.7-inch|3.0GB|16GB, 32GB|Android 8.1.0|✓|✓|✓|
 |ZTE|ZTE A7010|ZTE A7010|[Here](https://lh3.googleusercontent.com/UYbEJa1rDyFzUHXZ1MxOFIUsUUjkWIDcjB9OPonRrYZOiBvUOKomA6fKLftm35IaKL3muiWgaWU6)|Phone|6.1-inch|4.0GB|63GB|Android 9|✓|✗|✗|
 |ZTE|ZTE V1000|ZTE V1000|[Here](https://lh3.googleusercontent.com/Q0JZb4-PXZhCYARAdxRgYjfXCr9g-lfxCmkHtxg_5xOLIudo_rqJrsLwZRq9xFN_JQtZIjkymtdW)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✗|
+|ZTE|Telstra Tough Max 3|T86|[Here](https://lh3.googleusercontent.com/SGtzceFeyUwWF8hah3-yl0yv59a_ftxjahJB2T8vPkploqO_OgnOa5SQX5khxImnVGJtavPIiQY)|Phone|5.7-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |ZTE|ZTE 2050RU|ZTE 2050RU|[Here](https://lh3.googleusercontent.com/qhRujFi9tWQumaWjRgmUW_A6zGrDq_902YKMecAOuDl3Mm89b0VZSKcLJhmgf6j7xtIao66yNBzmfw)|Phone|6.5-inch|4.0GB|128GB|Android 9|✓|✓|✓|
 |ZTE|ZTE V1050|ZTE V1050|[Here](https://lh3.googleusercontent.com/6e5ctBnnreGbOhzzp1Pp-bi9wgEpIvG-FA1y4eMiJEDAOjngwanr_6n48vxj7BW9_TfQbOFW-Oxr)|Phone|6.5-inch|4.0GB|128GB|Android 9|✓|✓|✗|
 |ZTE|ZTE 2050|ZTE 2050|[Here](https://lh3.googleusercontent.com/CAZQ4ZN6Yp-N0MaR5ZYRhqJFhqGymNTQxwk416YpiZgoHwpLRbysfpSPB7Rg_je3fyf7a_2x-ygfqA)|Phone|6.5-inch|4.0GB|128GB|Android 9|✓|✓|✓|
