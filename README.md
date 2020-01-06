@@ -995,7 +995,6 @@
 |CHAINWAY|C66|C66|[Here](https://lh3.googleusercontent.com/gZjaTrjTw51w5sV_yU05u8IWSk6KN1BZsI6FlEjLaWD-U1KGJGDkpDSm-yoH2sXOfzDjTfefWJs)|Phone|5.5-inch|3.0GB|32GB|Android 9|✓|✗|✗|
 |CHAINWAY|C71|C71|[Here](https://lh3.googleusercontent.com/KzZzusfkLY5RFah6UPw22dlEaXeQ4EYFS7IdUyCj1yiFE8LB_s8SsEgpQbSzaaE1BUj7MR5XYhE)|Phone|5.2-inch|3.0GB|32GB|Android 8.1.0|✓|✗|✓|
 |CHCNAV|LT700|LT700|[Here](https://lh3.googleusercontent.com/6Ndef0I2-TI7Sogtcu7K_Do__w38ApBBt7SpaE2xmjja_fcLPi-dxoHNvRWXaSa-n7Uv16d380kc)|Tablet|8.0-inch|4.0GB|64GB|Android 8.1.0|✓|✗|✓|
-|CILICO|F880|F880|[Here](https://lh3.googleusercontent.com/NZxwD7njvR6UcTuab5iOsALAZ3H7sVE99Bg8NhLQKGxmSo2215XnsB24gm67SaCjthMlMVKaWtG5)|Phone|5.0-inch|3.0GB|32GB|Android 9|✓|✗|✓|
 |CILICO|C6|C6|[Here](https://lh3.googleusercontent.com/gk_BTUQa6mDG5DWVl6WZK498gI1Caw66fqGRNbNy9_dtxGxBs-5OBhBOBfBE6MP7WyE_-dAEdM8CwA)|Phone|5.0-inch|3.0GB|32GB|Android 9|✓|✗|✓|
 |COPAN|Aplus|Aplus|[Here](https://lh3.googleusercontent.com/Ushj7C0OgeqEB09En39Lshv4yeRETNu1vKcRWZnTPrQKCGX8WJYvrzfox8oW10TADOBzn3sInbKgaA)|Phone|5.7-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |CORN|CORN C10|C10|[Here](https://lh3.googleusercontent.com/2W86i7KpaONDcmoOUN_wID4FXedZcyEiMOccJCnzLABGo7EH19Yec--zQgg1ioO96QiQ_7ZZl0U)|Phone|6.2-inch|3.0GB|32GB|Android 9|✓|✓|✗|
@@ -4733,8 +4732,8 @@
 |Oppo|Reno|CPH1917|[Here](https://lh3.googleusercontent.com/yEJSTrU029mO9h6SwncdkjrHvgWj3pr2yDV6t04yqAo6uvGL6ukPNjQxls8cbVy_GDTrj443KHI)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10x Zoom|CPH1919|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10倍变焦版|PCCM00, PCCT00|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
-|Oppo|Reno 10x Room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10x room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
+|Oppo|Reno 10x Room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Find X 兰博基尼|PAHM00|[Here](https://lh3.googleusercontent.com/L6u1yOTVjcV6xaTg1qTYoI1OQvxlZ2S7tqRNnRbXsNtF7iNJLn9lJvcSPkZ-Ph48DrKtpJLe9Gjv)|Phone|6.6-inch|8.0GB|512GB|Android 9|✓|✗|✗|
 |Oppo|realme 2 Pro|RMX1807, RMX1803|[Here](https://lh3.googleusercontent.com/qTWIDQbkhyJp77KaAOVkmDsVnISuzRxHXZ6YekMqd2eriHTfL6LcVTww_d2_Lcem9wwUDP0Zp0I)|Phone|6.3-inch|8.0GB|128GB, 64GB|Android 9|✓|✓|✗|
 |Oppo|K3|CPH1955, PCGM00, PCGT00|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.5-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✗|
@@ -5607,7 +5606,7 @@
 |Samsung|Galaxy S8|SM-G9500, SM-G950U, SM-G950W, SC-02J, SCV36, SM-G950U1, SM-G9508, SM-G950F, SM-G950N|[Here](https://lh3.googleusercontent.com/lx-oLVhW7LXB06TM69LCf3beilh0I4xx3Jpe7772JFbbiYJT0H4W-N4gYxxXCEbPnQwWHF-hsMA)|Phone|5.8-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy A9 Star|SM-G8850, SM-G8858|[Here](https://lh3.googleusercontent.com/LLalttUuZk5ljOI4pg82_dQneGfp2vhjafZz7G9uiF5sZNfdIpIivUCFloIGRVr2qfKFpjOpVHuc)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy A8 Star|SM-G8850, SM-G885F, SM-G885S, SM-G885Y|[Here](https://lh3.googleusercontent.com/f0iJDozkVUqL5iEUQe7zrELvbUsaytR6JerBDCDTmCTLLe1Ir5frwmhEorsNBTKXI4Trzsw3eU6d)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✓|
-|Samsung|Galaxy Tab Active Pro|SM-T540, SM-T547U, SM-T547, SM-T545|[Here](https://lh3.googleusercontent.com/o8USjs_mc7eJhgloL-7cvlzxhE0ED80smcbHAqCFbejCdkPDB2jKb9xg7l3nTwimhoAxJXKRwLvGnA)|Tablet|10.1-inch|4.0GB|64GB|Android 9|✓|✓|✓|
+|Samsung|Galaxy Tab Active Pro|SM-T547U, SM-T547, SM-T540, SM-T545|[Here](https://lh3.googleusercontent.com/5gzID0PIAse762D7c6UU4t6t3xFc-Yc5yOvOWjF5vyHI0dNkkRQ_pT3UqTO3dALJVBh6jtV07ixTMQ)|Tablet|10.1-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy XCover Field Pro|SM-G889F|[Here](https://lh3.googleusercontent.com/CNv7WDCXcb-xYVvA2y_ZPdZJgVqifdCcNv-mwaiVD-V1CQgiornhHh1BBpy5zQk42c9xp2Wev71nQQ)|Phone|5.1-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy XCover FieldPro|SM-G889A, SM-G889G|[Here](https://lh3.googleusercontent.com/zbEDDVhS4Z-ZPZi9e2YeEt_xv4DRKcgHSS2SsahCglDhQlY8lHbOgOgJZN8lfl_tkNmKvRjQLagE)|Phone|5.1-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Samsung|Galaxy A40|SM-A405FN, SM-A405S, SM-A405FM|[Here](https://lh3.googleusercontent.com/Teka2dhCneYo37oA1doD4TM0uPrgQfxc4s9nFPs9v_Gfux0Qknwmn5vdNmyPytYVlLDYslyXzek3)|Phone|5.9-inch|4.0GB|64GB|Android 9|✓|✓|✓|
@@ -6637,7 +6636,6 @@
 |Umax|U452TL|U452TL|[Here](https://lh3.googleusercontent.com/yAOWImq4-cBkNywl_N-T0LSjYH2zI91Kg-x-18-AOIhRpFWjWDvsirLJ6BWU2b-6kvAUl_erh6RM)|Phone|4.5-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |Umidigi|A3|A3|[Here](https://lh3.googleusercontent.com/NcDXADjcEzRbfpqrVDwZQ0n8g6H47Kopk5H_RHHr8zkyQdoDZYYvM7WokVippbKKbjgT-4qAHqY)|Phone|5.5-inch|2.0GB|16GB|Android 9|✓|✓|✗|
 |Umidigi|A3_Pro|A3_Pro|[Here](https://lh3.googleusercontent.com/g_InK8dmy4bosJYiZQbTVOz9MSPn8mmf37q6janlOzGHdkqAd8PlZ4PfoiYWtrxHYh1ls6MPCiHw)|Phone|5.7-inch|3.0GB|32GB|Android 9|✓|✓|✗|
-|Umidigi|A7|A7|[Here](https://lh3.googleusercontent.com/VfZABz5iph7gjeYJCMsU0TVm1pn0upSv0nReF7z5auia04VGPGt7EV49zG49tgu_8Drx6nTxam3n)|Phone|6.5-inch|3.0GB|32GB|Android 9|✓|✓|✗|
 |Umidigi|A5 Pro|A5_Pro|[Here](https://lh3.googleusercontent.com/Unutuekkb6ruVrzTvhDrpNoNU6P-KzvlsO7NPCu-qFWOlO7_h_e5hDMsfkrVVYSOTC_02fTBoxMWZA)|Phone|6.3-inch|4.0GB|32GB|Android 9|✓|✓|✗|
 |Umidigi|Power|Power|[Here](https://lh3.googleusercontent.com/2fHFuY2C_lJdMMn5hZXe_bSxFfQEhzAA1q7o2qI2KZYJBxY9HuxaChxO_IKpNpetBFSgDOUC7A1FHQ)|Phone|6.3-inch|4.0GB|64GB|Android 9|✓|✓|✓|
 |Umidigi|F1|F1|[Here](https://lh3.googleusercontent.com/7r3LQ7o47gf1U_ISESGH7j24rj0Kxc7EBfZErEs2QSshNGE7-0uLl57hBM09nbwDZIbfhq--Ikqh)|Phone|6.3-inch|4.0GB|128GB|Android 9|✓|✓|✓|
