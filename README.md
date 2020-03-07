@@ -160,6 +160,7 @@
 |Aikun|EDSTAR LC-TS08A|LC-TS08A|[Here](https://lh3.googleusercontent.com/eAU6Id9GGV82wWPImKL5avvD4yvuGrHXMaTMdK67A9IGAI-X-unx4zXfNR7xBKpWSeVVMVGYY8M)|Tablet|8.0-inch|1.0GB|16GB|Android 6.0|✗|✗|✗|
 |Aikun|EDSTAR LC-TS08S|LC-TS08S|[Here](https://lh3.googleusercontent.com/qZj0kIN33-QU4tvuNIp6IQst6f5uW2l3_2wKJDApjlcHjs-yfGI7rYYvOkZegyihh1r46q8OeN9z)|Tablet|8.0-inch|1.0GB|32GB|Android 6.0|✗|✗|✗|
 |Aimson|Q88|Q88|[Here](https://lh3.googleusercontent.com/zTYJ-RZk4ltbbEKGzfgt31SzhmqNuE1NNPx3OGo7qHfQpplQDQKgPFhP2QX_ieIpWzuCNbqM0kM)|Tablet|7.0-inch|1.0GB|8GB|Android 7.1.2|✗|✗|✗|
+|Airpha|Halo3_Pro|Halo3, Halo3_Pro|[Here](https://lh3.googleusercontent.com/irtpG-JLPByzc5gr7BPrf4oDDFwsLOXzdnOJie-tSd7fO7l2mVMj9xND9KMXXk12QGaF6wWd7lbx)|Phone|6.6-inch|4.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Airtab|AT8-N|AT8-N|[Here](https://lh3.googleusercontent.com/UsLhj2UGCvcsSdrLPTp88vjiLxIZXdXJ2HUudhh0b4CNBm0CfIR3eGZTBMhov8WBIC7TVpSZILc)|Tablet|8.0-inch|3.0GB|32GB|Android 7.0|✓|✗|✗|
 |Aiuto|AT701|AT701|[Here](https://lh3.googleusercontent.com/42MFZd737GY6JlrB0y5F2R2hR1AYwx1dJp8jvCXwMVLpqtOnb2G5NiCewSwJxl_WjbqcHyERmG1R)|Tablet|7.0-inch|1.0GB|16GB|Android 6.0|✗|✗|✗|
 |Aiuto|AT702|AT702|[Here](https://lh3.googleusercontent.com/oRFnf0kSlz-Jl64gXqnYvAUiScTBHSxaK7iNu4exEtH5ZKWFzMvytYfPQG-7NwHhXVg7Ez2AbHfq)|Tablet|7.0-inch|2.0GB|32GB|Android 9|✗|✗|✗|
@@ -1067,6 +1068,7 @@
 |CILICO|C6|C6|[Here](https://lh3.googleusercontent.com/gk_BTUQa6mDG5DWVl6WZK498gI1Caw66fqGRNbNy9_dtxGxBs-5OBhBOBfBE6MP7WyE_-dAEdM8CwA)|Phone|5.0-inch|3.0GB|32GB|Android 9|✓|✗|✓|
 |CIRKUIT PLANET (ESPANA)|SMARTLIFE|SL-TAB07116, SL-TAB10232|[Here](https://lh3.googleusercontent.com/0m_GDf_IoUKbxGsPRKW5BX8WMadn1VxzF_fvyDJhz4k7Aac34G2EMMc6bGtiXr6PU6DwNCbEY6-Dbw)|Tablet|10.1-inch|2.0GB|16GB, 32GB|Android 9|✗|✗|✗|
 |COPAN|Aplus|Aplus|[Here](https://lh3.googleusercontent.com/Ushj7C0OgeqEB09En39Lshv4yeRETNu1vKcRWZnTPrQKCGX8WJYvrzfox8oW10TADOBzn3sInbKgaA)|Phone|5.7-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
+|CORN|R60|CORN R60|[Here](https://lh3.googleusercontent.com/7crOMQzfLYAhs4jgRVcNTeaYJRSdIrBHUUIFIa-bc_I1XVk6-pd2NSA8L3dRxrzAuzTA8f8_iBI)|Phone|6.3-inch|2.0GB|16GB|Android 9|✓|✓|✗|
 |CORN|CORN C10|C10|[Here](https://lh3.googleusercontent.com/2W86i7KpaONDcmoOUN_wID4FXedZcyEiMOccJCnzLABGo7EH19Yec--zQgg1ioO96QiQ_7ZZl0U)|Phone|6.2-inch|3.0GB|32GB|Android 9|✓|✓|✗|
 |CP Plus|CP-MUD-M721|CP-MUD-M721|[Here](https://lh3.googleusercontent.com/HO-z6CVaRuGWmGDJ63kreRmbsRVV_8QMdIZpgY_os4qRMUEdPtAd5RN97eacDdNVqelQtEwiQESX3g)|Tablet|7.0-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✗|
 |CX Argentina|CX9011|CX9011|[Here](https://lh3.googleusercontent.com/wlYek3-YsrizuFmcQkvBRzNkKyv_KqePNu4lcEVCYLp1tPp2FWXKiJoM_C1WjexMXEIjIpq_-lvC)|Tablet|7.0-inch|1.0GB|16GB|Android 7.0|✗|✗|✗|
@@ -3276,6 +3278,8 @@
 |Kenbo|O71|O71|[Here](https://lh3.googleusercontent.com/ueoRxDLyf6XK8ZoApW3aYGvTBKZlgy1CLcaX0P_O5ux6bGxGdBRIS27NSueto_jkMie6UR8Fyii6Qg)|Phone|6.1-inch|3.0GB|32GB|Android 9|✓|✓|✗|
 |Kenbo|O51|O51|[Here](https://lh3.googleusercontent.com/9L_S5EK2vYNT_gmCEoNm8Lj9hi4FD2L_7HGJRWooamd7Clm_iOfMfkie2SxuXod5X5vKUafqGalN)|Phone|5.5-inch|3.0GB|32GB|Android 7.0|✓|✓|✗|
 |Kenwood|KWSA80K|KWSA80K|[Here](https://lh3.googleusercontent.com/cJFK-aGYR9Ib-f-7U0NTSogPrzQWRZ7TVJHAydzTHhXuZjQoKMDdKLvvSzGRCnuqTKLk8FkHmSrk)|Phone|5.0-inch|4.0GB|64GB|Android 8.1.0|✓|✓|✓|
+|Kenxinda|A9|A9|[Here](https://lh3.googleusercontent.com/OPnXBu-UIC4Dw-RRbaAS4CtKv2yHEDVqqCnrDdc_g4sWxxveJbQojMUbSAUr4-Ly3UGZsZv0gGU2)|Phone|6.2-inch|2.0GB|28GB|Android 9|✓|✗|✗|
+|Kenxinda|D58|D58|[Here](https://lh3.googleusercontent.com/BZ7WtsYkRVpJi7tN_Q8LofxAruB4L5G1q0yWzA_0dTS9BdPEgiieeWQtbmX_QUT0UCUxrZAcWXXR)|Phone|6.2-inch|2.0GB|32GB|Android 9|✓|✗|✗|
 |Kenxinda|T55|T55|[Here](https://lh3.googleusercontent.com/uySrVqhG8vkA8cWLKRy69xiYzDEZ_psfR145CibY4EVCpkWu067NrvgpZI03qAqMYJcRsAUY38BLag)|Phone|5.5-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Kenxinda|T55S|T55S|[Here](https://lh3.googleusercontent.com/6r5vS_Z1XrXKkb5JKLopPVAdaDQsNiNe4Q0MkLyK9IWiOTTUx8B5hyVWfI3drOQk2-Np5C-ZXIrTkQ)|Phone|5.5-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
 |Kenxinda|Y20|Y20|[Here](https://lh3.googleusercontent.com/4UJ61gqmbjO5hvEr48GksImKRJpaR2rjB5D5ctM_wX5tejBGpVmZtOHjIuTTQq9BtSpg-l49zHFI)|Phone|6.0-inch|2.0GB|16GB|Android 8.1.0|✓|✓|✗|
