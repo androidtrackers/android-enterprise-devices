@@ -5066,12 +5066,12 @@
 |Oppo|R9s Plus|OPPO R9sPlus, OPPO R9s Plust, OPPO R9s Plus, CPH1611|[Here](https://lh3.googleusercontent.com/OBUv3HEBAzVZPegpBnADPIaqtya3jfAxIBtFPi3w-t_Sd02nfTcXzYzdBwHMDvUoiiz4XLib_siv)|Phone|6.0-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Oppo|CPH1721|CPH1721|[Here](https://lh3.googleusercontent.com/uXSyWMA5YTHDqKy2FCmF7wZA3bVhQUurjNb_tMh6gBlWZVoDmGj9w9qxveG56QpNgiDdAXkNvf2p6A)|Phone|6.4-inch|6.0GB|64GB|Android 7.1.1|✓|✓|✗|
 |Oppo|Reno 标准版|PCAM00, PCAT00|[Here](https://lh3.googleusercontent.com/eGb7yQFPb7ek-TUfKOvP29l9aC_0D-M0rLZKhTd5Q4sdHp52Jl4ciXR2atoHYFdgXKpvMorPiDQ)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
-|Oppo|Reno|CPH1917|[Here](https://lh3.googleusercontent.com/yEJSTrU029mO9h6SwncdkjrHvgWj3pr2yDV6t04yqAo6uvGL6ukPNjQxls8cbVy_GDTrj443KHI)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|R17 Pro|CPH1877, PBDM00, PBDT00|[Here](https://lh3.googleusercontent.com/FuzMNoLYa5f-XL_X4iuTgHahE4rwu-OjFMjqDbfYTokkOkvG49q52xTVQVE4TwK24iWWv8lypQUy)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
+|Oppo|Reno|CPH1917|[Here](https://lh3.googleusercontent.com/yEJSTrU029mO9h6SwncdkjrHvgWj3pr2yDV6t04yqAo6uvGL6ukPNjQxls8cbVy_GDTrj443KHI)|Phone|6.4-inch|8.0GB|128GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10x Zoom|CPH1919, CPH1919RU|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10倍变焦版|PCCM00, PCCT00|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
-|Oppo|Reno 10x room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Reno 10x Room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
+|Oppo|Reno 10x room|CPH1921|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |Oppo|Find X 兰博基尼|PAHM00|[Here](https://lh3.googleusercontent.com/L6u1yOTVjcV6xaTg1qTYoI1OQvxlZ2S7tqRNnRbXsNtF7iNJLn9lJvcSPkZ-Ph48DrKtpJLe9Gjv)|Phone|6.6-inch|8.0GB|512GB|Android 9|✓|✗|✗|
 |Oppo|realme 2 Pro|RMX1807, RMX1803|[Here](https://lh3.googleusercontent.com/qTWIDQbkhyJp77KaAOVkmDsVnISuzRxHXZ6YekMqd2eriHTfL6LcVTww_d2_Lcem9wwUDP0Zp0I)|Phone|6.3-inch|8.0GB|128GB, 64GB|Android 9|✓|✓|✗|
 |Oppo|K3|CPH1955, PCGM00, PCGT00|[Here](https://lh3.googleusercontent.com/God3GkBJ5vFbKoI7GzlzEVNc-xTUU8m8HGrA_P2C7xdC-XZqUufz0AB60Saz5ZqTdUrT9uxhzfw4KA)|Phone|6.5-inch|8.0GB|64GB, 128GB|Android 9|✓|✓|✗|
@@ -7845,7 +7845,6 @@
 |Xiaomi|Redmi 7|Redmi 7, ONC|[Here](https://lh3.googleusercontent.com/e9ZeF7XLIqyDqZa2DcbG3_1DFQccwXbLld6jTehCJl_6vfzsibBVPvTo0PZeI0dU60qqJU60LBU)|Phone|6.3-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|Redmi  Note  6  Pro|Redmi Note 6 Pro|[Here](https://lh3.googleusercontent.com/bwbTMSqiH-CoI8cAX7i7oJPjF4yqybMj7kMbGhO0pPv7PCjI-d-P1xfXKdQn_daqmwm2uacm0oQ)|Phone|6.3-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|Redmi 6 Pro|Redmi 6 Pro|[Here](https://lh3.googleusercontent.com/f7WyUeYwtBbOpD1NgiNjy2G0zJ4SdF67hY4J4NvL7X7Sw1JWSHI4zT0YGgG-xzI8HwKLOWcUHkHq)|Phone|5.8-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
-|Xiaomi|Mi A2 Lite|Mi A2 Lite|[Here](https://lh3.googleusercontent.com/dvZN6E34x58ZD8BuJb1PsGdvjnzdH8queyMTVr6mvhnPHRvSQmjfqhE46Grxf-Nn6C7fjoaT0XXDyA)|Phone|5.8-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|Redmi 6Pro|Redmi 6 Pro|[Here](https://lh3.googleusercontent.com/FeNK6xaT9gOqSnOHcZr4X3Yh-mVmVTh4wa4l-HVV4Y7VMQuADTZY4fLJ0u9ecFmgB49j6tsRKFGg)|Phone|5.8-inch|3.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|MI MAX|MI MAX|[Here](https://lh3.googleusercontent.com/_tVyHgSTiie4Ga99Qi4SJmRzeYDC06zOh4KuMOgoQmYaBCVpz5wdNvIBD60l1eBflov0quPB2sRO)|Phone|6.4-inch|3.0GB|16GB, 64GB|Android 7.0|✓|✓|✗|
 |Xiaomi|Redmi Note 4|Redmi Note 4, Redmi Note 4X|[Here](https://lh3.googleusercontent.com/tSLl_9ajkS_jlmyVLDleU-nnXY_oO5kn1ERgo2RiDK7GlurLHTDVj0MQSQ6GfoC1N2WIj3UrroQ)|Phone|5.5-inch|3.0GB|32GB, 16GB|Android 7.0|✓|✓|✗|
@@ -7864,6 +7863,7 @@
 |Xiaomi|MI MAX 3|MI MAX 3|[Here](https://lh3.googleusercontent.com/HCpS1LHGD6Og7DFS9BWt6Y5Tkw63_TnpCZwU6eO9engcV4KdbNY71_84gtSsFxJpfAX66Tg2xZKPFw)|Phone|6.9-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Xiaomi|Redmi Note 5|Redmi Note 5|[Here](https://lh3.googleusercontent.com/EWEKazWsbeUaop85P-3OLKUVlpdWli4NDK_noTnPeZ6i7vRZIYsaa851LChbKcwSmQHsXljKtAZ2)|Phone|6.0-inch|4.0GB|64GB|Android 9|✓|✓|✗|
 |Xiaomi|Redmi Note 5 Pro|Redmi Note 5, Redmi Note 5 Pro|[Here](https://lh3.googleusercontent.com/EWEKazWsbeUaop85P-3OLKUVlpdWli4NDK_noTnPeZ6i7vRZIYsaa851LChbKcwSmQHsXljKtAZ2)|Phone|6.0-inch|4.0GB|64GB|Android 9|✓|✓|✗|
+|Xiaomi|Mi A2 Lite|Mi A2 Lite|[Here](https://lh3.googleusercontent.com/dvZN6E34x58ZD8BuJb1PsGdvjnzdH8queyMTVr6mvhnPHRvSQmjfqhE46Grxf-Nn6C7fjoaT0XXDyA)|Phone|5.8-inch|4.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|MI 6X|MI 6X|[Here](https://lh3.googleusercontent.com/_gU6FbpVUWvVQcdilSqGsy3tEODLWYPzoRzn0a5LH5WM0_y_NU-NRiXj5dXxBhlqjaBF70AW19M)|Phone|6.0-inch|4.0GB|32GB, 64GB|Android 9|✓|✓|✗|
 |Xiaomi|MI 8|MI 8|[Here](https://lh3.googleusercontent.com/iVFouYp4325uDIPV5nvwPnNvW1pKvqB4-3hfIohOEOVNaiNOXgOYeo5euUazGstNBVuD5Rkc4X1d-A)|Phone|6.0-inch|4.0GB|64GB, 128GB|Android 9|✓|✓|✓|
 |Xiaomi|Mi A3|Mi A3|[Here](https://lh3.googleusercontent.com/qEgEX4lJLmglPchT5dOuiGP2Oiqxyv_Gk7Q7lem0eY31OCpIa6vP2FhJ0psSJSjNQt1yrqidjEI)|Phone|6.1-inch|4.0GB|64GB, 128GB|Android 9|✓|✓|✗|
