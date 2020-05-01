@@ -4976,6 +4976,7 @@
 |OnePlus|OnePlus 7 Pro 5G|GM1920|[Here](https://lh3.googleusercontent.com/FYxmIIQkQcXgLVz4zALD3QBmuGURPTl_SOoFY7rKlr67oZnRfBsLzumA2yKWg8EeyFsY9lryN7b43w)|Phone|6.7-inch|8.0GB|256GB|Android 9|✓|✓|✓|
 |OnePlus|OnePlus 7 Pro|GM1925, GM1917, GM1915|[Here](https://lh3.googleusercontent.com/ZKjjm-Z_ZQKPQEtuGWjvXW9mckdqhuNYnU8tO7x8lfiF0B0oBLWbLaVe9no7rfOAPLin4GdqDTj3)|Phone|6.7-inch|8.0GB|128GB, 256GB|Android 9|✓|✓|✓|
 |OnePlus|OnePlus6T|ONEPLUS A6013|[Here](https://lh3.googleusercontent.com/XvfYU4PEyjHM8BIEhG4xxXkM0H4yiPG9f714hp0UpUPcx5A3euCb-cFBGcf3eRoAovkK_KTVYe91)|Phone|6.4-inch|8.0GB|64GB, 128GB, 256GB|Android 9|✓|✓|✓|
+|OnePlus|OnePlus 8 5G UW|IN2019|[Here](https://lh3.googleusercontent.com/Vu-klFZ3pm3T3qzBFMiRVT4HYLJ2cTH0cfxFrFU9TrWLBIIHbq48dereDiU7Uqsi6fOWZhmIfDqF)|Phone|6.6-inch|8.0GB|128GB|Android 10|✓|✓|✓|
 |OnePlus|OnePlus 8 5G|IN2017|[Here](https://lh3.googleusercontent.com/7EUEZfJo5ycTxs2DjhaDD2FeekPzmdt9MCopCbtXxspvqTkEkn2q2bf_ESLdtojIonAFkAJbx5WgQQ)|Phone|6.6-inch|8.0GB|128GB|Android 10|✓|✓|✓|
 |OnePlus|OnePlus 7T Pro 5G|HD1925|[Here](https://lh3.googleusercontent.com/ydwoKUTQTOr1bV9CluOyT5v7XSsY0rsTTT2pdkJRtYpy0g4RadmIGu-4gg3-_nNBuOui7sN47oVl)|Phone|6.7-inch|8.0GB|256GB|Android 10|✓|✓|✓|
 |OnePlus|OnePlus 8 Pro|IN2023|[Here](https://lh3.googleusercontent.com/7u3obuiJ8rpf6MZd33s5ELUb-fuQNjsllUZB9XBvVgupFRhSG7tiFZl6TDbzToI7WnzLVmLCl74B)|Phone|6.8-inch|8.0GB|128GB, 256GB|Android 10|✓|✓|✓|
@@ -8237,8 +8238,8 @@
 |Zebra|TC20|TC20|[Here](https://lh3.googleusercontent.com/qpKpDHQZG6xkzFBMygYsFfzNjEwpyWd6wEKwzGYBQnoBeUCC0UXgiE7vATZCURAif3vmDqqHEOSz)|Phone|4.3-inch|2.0GB|16GB|Android 8.1.0|✗|✗|✗|
 |Zebra|TC70x|TC70x|[Here](https://lh3.googleusercontent.com/cepHsmEXZW8Hus5AD9usNHLimawGHr5w5YcYxkCVnKyTK4h5s5thY0MZ2YM1xgncDRvzr0g6YcgoRA)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✗|✗|✓|
 |Zebra|TC75xDF|TC75x|[Here](https://lh3.googleusercontent.com/_y7vmHuuXCsNmISOOQd8zaJdZACgBVKQ2zoKm8HDF5mQW_pHl4w9v174XZrzZvIOlhZrsSJ0i80v)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
-|Zebra|TC75x|TC75x|[Here](https://lh3.googleusercontent.com/_keqV1Xcl2n9YSi_x7TmBynQdI4DyJ8n13mGLL2ECfHvn8Bx6Okzv_RUMtd6i2GOcG4YjiukLCLtlw)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
 |Zebra|TC56|TC56|[Here](https://lh3.googleusercontent.com/y0eGDCtzjOEUgWePkKm2oK_FS78-NUgbZgZkk60Z6uiLXMVeKNiCPcy440PUZByOlUdtsLHX1D0)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
+|Zebra|TC75x|TC75x|[Here](https://lh3.googleusercontent.com/_keqV1Xcl2n9YSi_x7TmBynQdI4DyJ8n13mGLL2ECfHvn8Bx6Okzv_RUMtd6i2GOcG4YjiukLCLtlw)|Phone|4.7-inch|2.0GB|16GB|Android 8.1.0|✓|✗|✓|
 |Zebra|PS20 (Personal Shopper)|PS20J|[Here](https://lh3.googleusercontent.com/IZj57CQ5luILwauqdWPehLu-PYjCmbbuq-6pRdDA26gAHGvZgSsWtiERmRwdMdUL-mHi_O2r5ekJ)|Phone|4.0-inch|4.0GB|16GB|Android 9|✗|✗|✗|
 |Zebra|PS20(Personal Shopper)|PS20J|[Here](https://lh3.googleusercontent.com/LDDZgrKVF97uvXn2a_nPV4WEsklLyyfsFNZQRL4YMmhTtSmr0jmCwo6pMiHypiQPtLitINrgXtI)|Phone|4.0-inch|4.0GB|16GB|Android 9|✗|✗|✗|
 |Zebra|TC52|TC52|[Here](https://lh3.googleusercontent.com/_CilC7YZ3gfZ2M_JHnvqiX8FB0YNVi_TsO3fPeGWluMF8pISggYlfsYwjv1FWg5i8i0UF0FsL3nn8g)|Phone|5.0-inch|4.0GB|32GB|Android 9|✗|✗|✓|
