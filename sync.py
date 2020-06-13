@@ -16,45 +16,34 @@ def fetch():
     """
     Download latest and convert to markdown
     """
-    url = "https://fast-fire-142512.appspot.com/_ah/api/catalogue/v1/devices"
+    url = "https://androidenterprisepartners.withgoogle.com/_ah/spi/search/v1/devices?" \
+          "aer=true&size=999&sort=aer:desc,sort_name:asc"
     data = get(url).json()['items']
-    data = sorted(data, key=lambda k: k['brand'])
     with open('README.md', 'w', encoding="utf-8") as markdown:
         markdown.write('# [Google Enterprise Android Devices List]'
                        '(https://androidenterprisepartners.withgoogle.com/devices/)\n\n')
-        markdown.write('|Brand|Name|Models|Image|Type|'
-                       'Display|RAM|Storage|OS|Telephony|Fingerprint|NFC|\n')
+        markdown.write('|Brand|Name|Models|Image|Website|Type|'
+                       'Display|CPU|RAM|Storage|Battery|OS|Telephony|Fingerprint|NFC|\n')
         markdown.write('|---|---|---|---|---|---|---|---|---|---|---|---|\n')
         for item in data:
             brand = item['brand']
             name = item['name']
             models = item['models']
-            image = item['imageUrl']
+            image = item['imageUrls']['original']
+            website = item['website']
             device_type = item['hardwareFeatures']['formFactor']
             display = item['hardwareFeatures']['display']
             ram = item['hardwareFeatures']['ram']
             flash = item['hardwareFeatures']['flash']
             os = item['hardwareFeatures']['os']
-            telephony = ''
-            try:
-                if item['hardwareFeatures']['telephonySupport']:
-                    telephony = '✓'
-            except KeyError:
-                telephony = '✗'
-            fingerprint = ''
-            try:
-                if item['hardwareFeatures']['fingerprintSupport']:
-                    fingerprint = '✓'
-            except KeyError:
-                fingerprint = '✗'
-            nfc = ''
-            try:
-                if item['hardwareFeatures']['nfcSupport']:
-                    nfc = '✓'
-            except KeyError:
-                nfc = '✗'
-            markdown.write(f'|{brand}|{name}|{models}|[Here]({image})|{device_type}|{display}'
-                           f'|{ram}|{flash}|{os}|{telephony}|{fingerprint}|{nfc}|\n')
+            processor_speed = item['hardwareFeatures']['processorSpeed']
+            battery = item['hardwareFeatures']['batteryLife']
+            telephony = '✓' if item['hardwareFeatures'].get('telephonySupport') else '✗'
+            fingerprint = '✓' if item['hardwareFeatures'].get('fingerPrintSupport') else '✗'
+            nfc = '✓' if item['hardwareFeatures'].get('nfcSupport') else '✗'
+            markdown.write(f'|{brand}|{name}|{models}|[Here]({image})|[Here]({website})|{device_type}'
+                           f'|{display}|{processor_speed}|{ram}|{flash}|{battery}|{os}'
+                           f'|{telephony}|{fingerprint}|{nfc}|\n')
 
 
 def diff_files():
@@ -86,40 +75,42 @@ def post_to_tg():
         name = info[2]
         models = info[3]
         image = info[4]
-        device_type = info[5]
-        display = info[6]
-        ram = info[7]
-        flash = info[8]
-        os = info[9]
-        telephony = info[10]
-        fingerprint = info[11]
-        nfc = info[12]
-        telegram_message = f"*New device added!* \n" \
+        website = info[5]
+        device_type = info[6]
+        display = info[7]
+        processor_speed = info[8]
+        ram = info[9]
+        flash = info[10]
+        battery = info[11]
+        os = info[12]
+        telephony = info[13]
+        fingerprint = info[14]
+        nfc = info[15]
+        telegram_message = f"*New Android Enterprise Recommended device added!*\n" \
             f"Brand: *{brand}*\n" \
             f"Name: *{name}*\n" \
             f"Type: *{device_type}*\n" \
             f"Models: `{models}`\n" \
-            f"Image: {image}\n" \
+            f"Website: {website}\n" \
             f"*Display*: {display}\n" \
+            f"*CPU*: {processor_speed}\n" \
             f"*RAM*: {ram}\n" \
             f"*Storage*: {flash}\n" \
+            f"*Battery*: `{battery}`\n" \
             f"*OS*: {os}\n" \
             f"*Telephony Support*: {telephony}\n" \
             f"*Fingerprint Support*: {fingerprint}\n" \
             f"*NFC Support*: {nfc}\n"
-        telegram_url = "https://api.telegram.org/bot" + BOT_TOKEN + "/sendMessage"
-        params = (
-            ('chat_id', telegram_chat),
-            ('text', telegram_message),
-            ('parse_mode', "Markdown"),
-            ('disable_web_page_preview', "yes")
-        )
-        telegram_req = post(telegram_url, params=params)
+        telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto?" \
+                       f"chat_id={telegram_chat}&caption={telegram_message}&" \
+                       f"parse_mode=Markdown&disable_web_page_preview=yes&" \
+                       f"photo={image.split('(')[1].split(')')[0]}"
+        telegram_req = post(telegram_url)
         telegram_status = telegram_req.status_code
         if telegram_status == 200:
             print("{0}: Telegram Message sent".format(name))
         else:
-            print("Unknown error")
+            print(f"{telegram_req.reason}")
 
 
 def git_commit_push():
