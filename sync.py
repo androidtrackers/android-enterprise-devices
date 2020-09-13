@@ -24,7 +24,7 @@ def fetch():
                        '(https://androidenterprisepartners.withgoogle.com/devices/)\n\n')
         markdown.write('|Brand|Name|Models|Image|Website|Type|'
                        'Display|CPU|RAM|Storage|Battery|OS|Telephony|Fingerprint|NFC|\n')
-        markdown.write('|---|---|---|---|---|---|---|---|---|---|---|---|\n')
+        markdown.write('|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n')
         for item in data:
             brand = item['brand']
             name = item['name']
@@ -86,6 +86,10 @@ def post_to_tg():
         telephony = info[13]
         fingerprint = info[14]
         nfc = info[15]
+        try:
+            photo = image.split('(')[1].split(')')[0]
+        except IndexError:
+            continue
         telegram_message = f"*New Android Enterprise Recommended device added!*\n" \
             f"Brand: *{brand}*\n" \
             f"Name: *{name}*\n" \
@@ -104,7 +108,7 @@ def post_to_tg():
         telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto?" \
                        f"chat_id={telegram_chat}&caption={telegram_message}&" \
                        f"parse_mode=Markdown&disable_web_page_preview=yes&" \
-                       f"photo={image.split('(')[1].split(')')[0]}"
+                       f"photo={photo}"
         telegram_req = post(telegram_url)
         telegram_status = telegram_req.status_code
         if telegram_status == 200:
