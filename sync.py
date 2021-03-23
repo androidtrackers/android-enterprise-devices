@@ -3,6 +3,7 @@
 
 import difflib
 from datetime import date
+from time import sleep
 from itertools import tee
 from os import rename, path, system, environ
 from requests import get, post
@@ -70,51 +71,52 @@ def post_to_tg():
     with open('changes', 'r') as f:
         changes = f.read()
     for line in changes.splitlines():
-        info = line.split("|")
-        brand = info[1]
-        name = info[2]
-        models = info[3]
-        image = info[4]
-        website = info[5]
-        device_type = info[6]
-        display = info[7]
-        processor_speed = info[8]
-        ram = info[9]
-        flash = info[10]
-        battery = info[11]
-        os = info[12]
-        telephony = info[13]
-        fingerprint = info[14]
-        nfc = info[15]
         try:
+            info = line.split("|")
+            brand = info[1]
+            name = info[2]
+            models = info[3]
+            image = info[4]
+            website = info[5]
+            device_type = info[6]
+            display = info[7]
+            processor_speed = info[8]
+            ram = info[9]
+            flash = info[10]
+            battery = info[11]
+            os = info[12]
+            telephony = info[13]
+            fingerprint = info[14]
+            nfc = info[15]
             photo = image.split('(')[1].split(')')[0]
+            telegram_message = f"*New Android Enterprise Recommended device added!*\n" \
+                f"Brand: *{brand}*\n" \
+                f"Name: *{name}*\n" \
+                f"Type: *{device_type}*\n" \
+                f"Models: `{models}`\n" \
+                f"Website: {website}\n" \
+                f"*Display*: {display}\n" \
+                f"*CPU*: {processor_speed}\n" \
+                f"*RAM*: {ram}\n" \
+                f"*Storage*: {flash}\n" \
+                f"*Battery*: `{battery}`\n" \
+                f"*OS*: {os}\n" \
+                f"*Telephony Support*: {telephony}\n" \
+                f"*Fingerprint Support*: {fingerprint}\n" \
+                f"*NFC Support*: {nfc}\n"
+            telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto?" \
+                        f"chat_id={telegram_chat}&caption={telegram_message}&" \
+                        f"parse_mode=Markdown&disable_web_page_preview=yes&" \
+                        f"photo={photo}"
+            telegram_req = post(telegram_url)
+            telegram_status = telegram_req.status_code
+            if telegram_status == 200:
+                print("{0}: Telegram Message sent".format(name))
+            else:
+                print(f"{telegram_req.reason}")
+            sleep(3)
         except IndexError:
             continue
-        telegram_message = f"*New Android Enterprise Recommended device added!*\n" \
-            f"Brand: *{brand}*\n" \
-            f"Name: *{name}*\n" \
-            f"Type: *{device_type}*\n" \
-            f"Models: `{models}`\n" \
-            f"Website: {website}\n" \
-            f"*Display*: {display}\n" \
-            f"*CPU*: {processor_speed}\n" \
-            f"*RAM*: {ram}\n" \
-            f"*Storage*: {flash}\n" \
-            f"*Battery*: `{battery}`\n" \
-            f"*OS*: {os}\n" \
-            f"*Telephony Support*: {telephony}\n" \
-            f"*Fingerprint Support*: {fingerprint}\n" \
-            f"*NFC Support*: {nfc}\n"
-        telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto?" \
-                       f"chat_id={telegram_chat}&caption={telegram_message}&" \
-                       f"parse_mode=Markdown&disable_web_page_preview=yes&" \
-                       f"photo={photo}"
-        telegram_req = post(telegram_url)
-        telegram_status = telegram_req.status_code
-        if telegram_status == 200:
-            print("{0}: Telegram Message sent".format(name))
-        else:
-            print(f"{telegram_req.reason}")
 
 
 def git_commit_push():
