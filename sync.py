@@ -9,7 +9,7 @@ from os import rename, path, system, environ
 from requests import get, post
 
 GIT_OAUTH_TOKEN = environ['GIT_OAUTH_TOKEN_XFU']
-BOT_TOKEN = environ['bottoken']
+BOT_TOKEN = environ['BOTTOKEN']
 TODAY = str(date.today())
 
 
