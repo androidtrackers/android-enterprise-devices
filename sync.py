@@ -17,9 +17,22 @@ def fetch():
     """
     Download latest and convert to markdown
     """
-    url = "https://androidenterprisepartners.withgoogle.com/_ah/spi/search/v1/devices?" \
-          "aer=true&size=999&sort=aer:desc,sort_name:asc"
-    data = get(url).json()['items']
+    url = "https://androidenterprisepartners.withgoogle.com/api/search/products"
+    params = {
+        'aesd_product_type': 'Device',
+        'android_enterprise_recommended_status': 'true',
+        'page_size': 100,
+    }
+    data = []
+    while True:
+        response = get(url, params=params)
+        response.raise_for_status()
+        page = response.json()
+        data.extend(page['results'])
+        if not page.get('next_page_token'):
+            break
+        params['page_token'] = page['next_page_token']
+
     with open('README.md', 'w', encoding="utf-8") as markdown:
         markdown.write('# [Google Enterprise Android Devices List]'
                        '(https://androidenterprisepartners.withgoogle.com/devices/)\n\n')
@@ -27,21 +40,25 @@ def fetch():
                        'Display|CPU|RAM|Storage|Battery|OS|Telephony|Fingerprint|NFC|\n')
         markdown.write('|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n')
         for item in data:
-            brand = item['brand']
+            brand = item['partner']
             name = item['name']
-            models = item['models']
-            image = item['imageUrls']['original']
-            website = item['website']
-            device_type = item['hardwareFeatures']['formFactor']
-            display = item['hardwareFeatures']['display']
-            ram = item['hardwareFeatures']['ram']
-            flash = item['hardwareFeatures']['flash']
-            os = item['hardwareFeatures']['os']
-            processor_speed = item['hardwareFeatures']['processorSpeed']
-            battery = item['hardwareFeatures']['batteryLife']
-            telephony = '✓' if item['hardwareFeatures'].get('telephonySupport') else '✗'
-            fingerprint = '✓' if item['hardwareFeatures'].get('fingerPrintSupport') else '✗'
-            nfc = '✓' if item['hardwareFeatures'].get('nfcSupport') else '✗'
+            if name.startswith(brand):
+                name = name[len(brand):].strip()
+            models = name
+            image = item.get('logo', '')
+            website = item.get('website', '')
+            device_type = item.get('device_type', '')
+            display = item.get('screen_size', '')
+            ram = ', '.join(item.get('ram_size', []))
+            flash = item.get('storage_size', '')
+            versions = item.get('android_enterprise_recommended_validated_os_version', [])
+            os = versions[-1] if versions else ''
+            processor_speed = item.get('processor', '')
+            battery = item.get('battery_life', '')
+            features = item.get('device_features', [])
+            telephony = '✓' if 'Telephony' in features else '✗'
+            fingerprint = '✓' if 'Fingerprint' in features else '✗'
+            nfc = '✓' if 'NFC' in features else '✗'
             markdown.write(f'|{brand}|{name}|{models}|[Here]({image})|[Here]({website})|{device_type}'
                            f'|{display}|{processor_speed}|{ram}|{flash}|{battery}|{os}'
                            f'|{telephony}|{fingerprint}|{nfc}|\n')
